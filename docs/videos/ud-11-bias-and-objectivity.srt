@@ -1,0 +1,29 @@
+1
+00:00:12,504 --> 00:00:19,388
+Les deux articles parlent du même événement, pourtant ils racontent presque deux histoires différentes.
+The two articles talk about the same event, yet they tell almost two different stories.
+
+2
+00:00:19,488 --> 00:00:26,180
+Le premier est assez partial. Il ne cite que les opposants au projet.
+The first is fairly one-sided. It only quotes the opponents of the project.
+
+3
+00:00:26,280 --> 00:00:34,868
+Le second est plus nuancé. Qu'il s'agisse des avantages ou des inconvénients, il donne la parole à tout le monde.
+The second is more balanced. Whether it's the advantages or the disadvantages, it gives everyone a voice.
+
+4
+00:00:34,968 --> 00:00:43,004
+Néanmoins, il reste quelque peu complaisant envers la mairie, en dépit de ses efforts d'objectivité.
+Nevertheless, it remains somewhat indulgent towards the town hall, despite its efforts at objectivity.
+
+5
+00:00:43,104 --> 00:00:51,212
+Toutefois, aucun média n'est totalement neutre. Quoi qu'il en soit, il faut croiser les sources.
+However, no media outlet is completely neutral. Whatever the case, you have to cross-check sources.
+
+6
+00:00:51,312 --> 00:00:57,716
+Exactement : mettre les informations en perspective avant de se faire une opinion.
+Exactly: put the information in perspective before forming an opinion.
