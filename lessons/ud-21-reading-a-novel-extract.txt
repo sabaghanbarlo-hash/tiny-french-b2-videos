@@ -1,0 +1,47 @@
+title: Reading a Novel Extract
+episode: UD21
+scene: bookstore
+
+[story]
+Marinette: Écoute le début : « La ville dormait encore. La brume enveloppait les toits comme si elle voulait les protéger. » | Listen to the beginning: “The town was still asleep. The mist wrapped the roofs as if it wanted to protect them.”
+Adrien: Le narrateur utilise une personnification : la ville dort, la brume protège. | The narrator uses personification: the town sleeps, the mist protects.
+Marinette: Le champ lexical du repos crée une atmosphère calme et mystérieuse. | The lexical field of rest creates a calm, mysterious atmosphere.
+Adrien: Remarque aussi le passé simple dans la suite : « Il ouvrit la fenêtre et respira. » C'est un temps d'action. | Note also the passé simple later on: “He opened the window and breathed.” It's a tense of action.
+Marinette: Et l'imparfait sert à décrire le décor, comme à l'arrière-plan d'un tableau. | And the imperfect serves to describe the setting, like the background of a painting.
+Adrien: Le point de vue est celui d'un narrateur omniscient, qui sait tout. | The point of view is that of an omniscient narrator, who knows everything.
+
+[vocab]
+vocab: le narrateur | narrator | luh nah-rah-TUHR
+example: Le narrateur raconte l'histoire. | The narrator tells the story.
+vocab: le point de vue | point of view | luh pwan duh VEW
+example: Le point de vue est omniscient. | The point of view is omniscient.
+vocab: la métaphore | metaphor | lah may-tah-FOHR
+example: Cette métaphore est frappante. | This metaphor is striking.
+vocab: la personnification | personification | lah pehr-soh-nee-fee-kah-SYOHN
+example: La personnification donne vie à la ville. | Personification gives life to the town.
+vocab: le champ lexical | lexical field | luh shahn lehk-see-KAHL
+example: Le champ lexical du repos domine. | The lexical field of rest dominates.
+vocab: l'atmosphère | atmosphere | laht-moh-SFEHR
+example: L'atmosphère est mystérieuse. | The atmosphere is mysterious.
+vocab: la brume | mist | lah BREWM
+example: La brume couvre la ville. | The mist covers the town.
+vocab: envelopper | to wrap, to envelop | ahn-vuh-loh-PAY
+example: La brume enveloppe les toits. | The mist envelops the roofs.
+vocab: le décor | setting, scenery | luh day-KOHR
+example: L'imparfait décrit le décor. | The imperfect describes the setting.
+
+[grammar]
+grammar: Comme si + imparfait | Comme si introduces an unreal comparison and takes the imparfait or the plus-que-parfait: la brume enveloppait les toits comme si elle voulait les protéger; il se comportait comme si rien ne s'était passé. It never takes the conditional or the present subjunctive. It's common in literary description.
+example: Comme si elle voulait les protéger. | As if she wanted to protect them.
+example: Comme si rien ne s'était passé. | As if nothing had happened.
+grammar: Tenses in literary texts | Descriptions and background use the imparfait. Main actions use the passé simple in literary prose. The plus-que-parfait gives earlier events. To analyse a text: identify the narrator, the point of view, the figures of speech, and the lexical fields.
+example: La ville dormait encore. | The town was still asleep.
+example: Il ouvrit la fenêtre et respira. | He opened the window and breathed.
+
+[quiz]
+quiz: Which tense follows “comme si” for a present unreal comparison? | conditionnel | imparfait | subjonctif | futur | B | Comme si + imparfait.
+quiz: What does “le champ lexical” refer to? | a field of vocabulary exercises | a lexicon page | a group of words on the same theme | a spelling mistake | C | Champ lexical = word field.
+quiz: What is “il ouvrit” in everyday speech? | il ouvrait | il ouvrira | il ouvre | il a ouvert | D | Passé simple → passé composé.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Bias and Objectivity
+episode: UD11
+scene: terrace
+
+[story]
+Adrien: Les deux articles parlent du même événement, pourtant ils racontent presque deux histoires différentes. | The two articles talk about the same event, yet they tell almost two different stories.
+Marinette: Le premier est assez partial. Il ne cite que les opposants au projet. | The first is fairly one-sided. It only quotes the opponents of the project.
+Adrien: Le second est plus nuancé. Qu'il s'agisse des avantages ou des inconvénients, il donne la parole à tout le monde. | The second is more balanced. Whether it's the advantages or the disadvantages, it gives everyone a voice.
+Marinette: Néanmoins, il reste quelque peu complaisant envers la mairie, en dépit de ses efforts d'objectivité. | Nevertheless, it remains somewhat indulgent towards the town hall, despite its efforts at objectivity.
+Adrien: Toutefois, aucun média n'est totalement neutre. Quoi qu'il en soit, il faut croiser les sources. | However, no media outlet is completely neutral. Whatever the case, you have to cross-check sources.
+Marinette: Exactement : mettre les informations en perspective avant de se faire une opinion. | Exactly: put the information in perspective before forming an opinion.
+
+[vocab]
+vocab: partial / partiale | biased, one-sided | pahr-SYAHL
+example: Cet article est partial. | This article is one-sided.
+vocab: impartial / impartiale | impartial | an-pahr-SYAHL
+example: Un journaliste doit être impartial. | A journalist must be impartial.
+vocab: objectif / objective | objective | ohb-zhehk-TEEF
+example: Le reportage est objectif. | The report is objective.
+vocab: nuancer | to qualify, to add nuance | new-ahn-SAY
+example: Il faut nuancer ce propos. | This statement needs qualifying.
+vocab: croiser les sources | to cross-check sources | krwah-ZAY lay SOORSS
+example: Il faut croiser les sources. | You have to cross-check sources.
+vocab: mettre en perspective | to put into perspective | MEH-truh ahn pehr-spehk-TEEV
+example: Mettons les faits en perspective. | Let's put the facts into perspective.
+vocab: néanmoins / toutefois | nevertheless / however | nay-ahn-MWAN / toot-FWAH
+example: Néanmoins, il reste prudent. | Nevertheless, he remains cautious.
+vocab: en dépit de | despite | ahn day-PEE duh
+example: En dépit de ses efforts, il reste partial. | Despite his efforts, he remains biased.
+vocab: complaisant / complaisante | indulgent, complacent | kohn-pleh-ZAHN
+example: Il est complaisant avec le pouvoir. | He's indulgent towards those in power.
+
+[grammar]
+grammar: Concessive connectors | Pourtant, néanmoins, toutefois, cependant all introduce an idea that goes against what precedes: le second est plus nuancé ; néanmoins, il reste complaisant. En dépit de, malgré plus noun: en dépit de ses efforts. Quoi qu'il en soit closes a discussion: quoi qu'il en soit, il faut croiser les sources. These are common in formal writing.
+example: Il est nuancé ; néanmoins, il reste complaisant. | It is balanced; nevertheless, it remains indulgent.
+example: En dépit de ses efforts, il reste partial. | Despite his efforts, he remains biased.
+grammar: Qu'il s'agisse de… ou de… | Qu'il s'agisse de A ou de B means whether it's A or B and takes the subjunctive: qu'il s'agisse des avantages ou des inconvénients, il donne la parole à tout le monde. Other fixed subjunctive patterns: quoi qu'il arrive, où que tu ailles, quel que soit le sujet.
+example: Qu'il s'agisse des avantages ou des inconvénients… | Whether it's the advantages or the disadvantages…
+example: Quel que soit le sujet, il faut vérifier. | Whatever the topic, you must check.
+
+[quiz]
+quiz: Which word means “nevertheless”? | parce que | donc | ainsi | néanmoins | D | Néanmoins = nevertheless.
+quiz: What does “croiser les sources” mean? | to cross-check sources | to cross out sources | to meet sources | to mix up sources | A | Croiser = cross-check.
+quiz: What does “en dépit de” mean? | because of | despite | thanks to | instead of | B | En dépit de = despite.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

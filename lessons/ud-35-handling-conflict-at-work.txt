@@ -1,0 +1,47 @@
+title: Handling Conflict at Work
+episode: UD35
+scene: classroom
+
+[story]
+Marinette: Adrien, je voudrais qu'on parle du retard sur le dossier. Je regrette que nous n'en ayons pas discuté plus tôt. | Adrien, I'd like us to talk about the delay on the file. I regret that we didn't discuss it earlier.
+Adrien: Je te reproche de ne pas m'avoir prévenu quand les délais ont changé. | I reproach you for not having warned me when the deadlines changed.
+Marinette: C'est vrai, je regrette de ne pas l'avoir fait. Je m'excuse d'avoir créé cette confusion. | That's true, I regret not having done so. I apologise for causing this confusion.
+Adrien: Mais il faut aussi tenir compte du fait que j'avais déjà beaucoup de travail. | But you also have to take into account the fact that I already had a lot of work.
+Marinette: Bien sûr. Je prends cela en compte. Qui est à l'origine du problème importe moins que ce qu'on peut faire. | Of course. I'll take that into account. Who is at the origin of the problem matters less than what we can do.
+Adrien: D'accord. Fixons un point hebdomadaire, afin que cela ne se reproduise pas. | OK. Let's set a weekly check-in so that it doesn't happen again.
+
+[vocab]
+vocab: le désaccord | disagreement | luh day-zah-KOHR
+example: Nous avons un désaccord. | We have a disagreement.
+vocab: reprocher à quelqu'un de | to reproach someone for | ruh-proh-SHAY ah kehl-KUHN duh
+example: Je te reproche de ne pas m'avoir prévenu. | I reproach you for not warning me.
+vocab: regretter de / que | to regret (doing) / that | ruh-greh-TAY
+example: Je regrette de ne pas l'avoir fait. | I regret not having done it.
+vocab: s'excuser de | to apologise for | sehk-skew-ZAY duh
+example: Je m'excuse d'avoir créé cette confusion. | I apologise for causing this confusion.
+vocab: tenir compte de | to take into account | tuh-NEER KOHNT duh
+example: Il faut tenir compte de cette contrainte. | We must take this constraint into account.
+vocab: prendre en compte | to take into account | PRAHN-druh ahn KOHNT
+example: Je prends cela en compte. | I'll take that into account.
+vocab: être à l'origine de | to be at the origin of | EH-truh ah loh-ree-ZHEEN duh
+example: Qui est à l'origine du problème ? | Who is at the origin of the problem?
+vocab: le retard | delay | luh ruh-TAHR
+example: Il y a un retard sur le dossier. | There's a delay on the file.
+vocab: se reproduire | to happen again | suh ruh-proh-DWEER
+example: Je ne veux pas que cela se reproduise. | I don't want it to happen again.
+
+[grammar]
+grammar: Reproaches, regrets and apologies | Reprocher à quelqu'un de plus infinitive: je te reproche de ne pas m'avoir prévenu. Regretter de plus infinitive: je regrette de ne pas l'avoir fait; regretter que plus subjunctive: je regrette que nous n'en ayons pas discuté. S'excuser de plus infinitive: je m'excuse d'avoir créé cette confusion. Soften with je comprends que, il est possible que.
+example: Je te reproche de ne pas m'avoir prévenu. | I reproach you for not having warned me.
+example: Je regrette que nous n'en ayons pas discuté plus tôt. | I regret that we didn't discuss it earlier.
+grammar: Tenir compte de, prendre en compte | Tenir compte de plus noun and prendre en compte plus noun mean to take into account: il faut tenir compte de cette contrainte; je prends cela en compte. With a clause: tenir compte du fait que plus indicative: tenir compte du fait que j'avais beaucoup de travail. Être à l'origine de plus noun: qui est à l'origine du problème ?
+example: Il faut tenir compte du fait que j'avais beaucoup de travail. | You have to take into account the fact that I had a lot of work.
+example: Qui est à l'origine du problème ? | Who is at the origin of the problem?
+
+[quiz]
+quiz: Which sentence is correct? | Je te reproche que ne pas m'avoir prévenu. | Je te reproche à ne pas m'avoir prévenu. | Je te reproche ne pas m'avoir prévenu. | Je te reproche de ne pas m'avoir prévenu. | D | Reprocher à quelqu'un de + infinitive.
+quiz: What does “tenir compte de” mean? | to take into account | to keep an account of | to count the cost | to hold a story | A | Tenir compte de = take into account.
+quiz: What does “se reproduire” mean in this lesson? | to breed | to happen again | to copy oneself | to reproduce a document | B | Se reproduire = recur.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

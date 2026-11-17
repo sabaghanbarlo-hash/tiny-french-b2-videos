@@ -1,0 +1,47 @@
+title: Music and Emotion
+episode: UD23
+scene: terrace
+
+[story]
+Marinette: Cette chanson me bouleverse à chaque fois. La mélodie est simple, mais elle donne des frissons. | This song moves me every time. The melody is simple, but it gives me goosebumps.
+Adrien: Pour moi, ce sont les paroles qui comptent. Elles font réfléchir sans jamais être lourdes. | For me, it's the lyrics that matter. They make you think without ever being heavy.
+Marinette: Le rythme, lui, est très entraînant : ça donne envie de danser, même quand on est triste. | The rhythm, on the other hand, is very catchy: it makes you want to dance, even when you're sad.
+Adrien: Ça me fait penser à des chansons de mon enfance. Ça me rappelle les soirées chez mes grands-parents. | It reminds me of songs from my childhood. It reminds me of evenings at my grandparents'.
+Marinette: L'ambiance du concert était incroyable : la musique faisait vibrer toute la salle. | The atmosphere at the concert was incredible: the music made the whole hall vibrate.
+Adrien: Un bon morceau, c'est celui qui nous fait ressentir quelque chose sans qu'on sache pourquoi. | A good piece is the one that makes us feel something without our knowing why.
+
+[vocab]
+vocab: la mélodie | melody | lah may-loh-DEE
+example: La mélodie est simple. | The melody is simple.
+vocab: les paroles | lyrics | lay pah-ROHL
+example: Les paroles sont touchantes. | The lyrics are touching.
+vocab: le rythme | rhythm | luh REET-muh
+example: Le rythme est très entraînant. | The rhythm is very catchy.
+vocab: l'ambiance | atmosphere, mood | lahn-BYAHNSS
+example: L'ambiance était incroyable. | The atmosphere was incredible.
+vocab: entraînant / entraînante | catchy, lively | ahn-treh-NAHN
+example: Cette chanson est entraînante. | This song is catchy.
+vocab: bouleversant / bouleversante | deeply moving | bool-vehr-SAHN
+example: C'est un morceau bouleversant. | It's a deeply moving piece.
+vocab: donner des frissons | to give goosebumps | doh-NAY day free-SOHN
+example: Cette voix donne des frissons. | This voice gives goosebumps.
+vocab: donner envie de | to make (someone) want to | doh-NAY ahn-VEE duh
+example: Ça donne envie de danser. | It makes you want to dance.
+vocab: ressentir | to feel | ruh-sahn-TEER
+example: Je ressens beaucoup d'émotion. | I feel a lot of emotion.
+
+[grammar]
+grammar: Faire + infinitive for effects | Faire plus infinitive expresses what music causes: ça fait pleurer, ça fait danser, ça fait réfléchir, ça me fait penser à Donner envie de plus infinitive means to make someone want to: ça donne envie de danser. Laisser plus infinitive: ça laisse rêveur. With pronouns: ça me fait rire, ça nous donne envie de chanter.
+example: Ça fait réfléchir sans être lourd. | It makes you think without being heavy.
+example: Ça donne envie de danser. | It makes you want to dance.
+grammar: Rappeler, faire penser à, ressembler à | Rappeler quelque chose à quelqu'un: ça me rappelle mon enfance. Faire penser à: ça me fait penser à une chanson de mon enfance. Ressembler à: cette chanson ressemble à une berceuse. Evoquer: ça évoque la mer. Add nuance: un peu, plutôt, vraiment, presque.
+example: Ça me rappelle mon enfance. | It reminds me of my childhood.
+example: Cette chanson ressemble à une berceuse. | This song resembles a lullaby.
+
+[quiz]
+quiz: How do you say “it makes you want to dance”? | Ça donne envie danser. | Ça fait envie de danser à. | Ça donne danser. | Ça donne envie de danser. | D | Donner envie de + infinitive.
+quiz: What does “bouleversant” mean? | deeply moving | deeply boring | overturned | very noisy | A | Bouleversant = deeply moving.
+quiz: Which verb means “to remind (someone of)”? | rapporter | rappeler | rappliquer | rapprocher | B | Rappeler à quelqu'un.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

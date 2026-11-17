@@ -1,0 +1,47 @@
+title: Sleep and Routines
+episode: UD31
+scene: home
+
+[story]
+Marinette: L'article dit qu'il est recommandé de dormir sept à huit heures par nuit. | The article says it's recommended to sleep seven to eight hours per night.
+Adrien: Moi, je ne dors que six heures en semaine. Je rattrape le week-end. | I only sleep six hours on weekdays. I catch up at the weekend.
+Marinette: Il est préférable de garder un rythme régulier, même le week-end. | It's preferable to keep a regular rhythm, even at the weekend.
+Adrien: Il est conseillé d'éviter les écrans une heure avant de dormir, ce que je ne fais presque jamais. | It's advised to avoid screens an hour before sleeping, which I almost never do.
+Marinette: Il suffit parfois de changer une seule habitude pour mieux récupérer. | Sometimes it's enough to change a single habit to recover better.
+Adrien: Je vais essayer de me coucher plus tôt, ne serait-ce que deux jours par semaine. | I'm going to try to go to bed earlier, if only two days a week.
+
+[vocab]
+vocab: le sommeil | sleep | luh soh-MEHY
+example: Le sommeil est important. | Sleep is important.
+vocab: le rythme de vie | lifestyle rhythm | luh REET-muh duh VEE
+example: Il faut un rythme régulier. | You need a regular rhythm.
+vocab: récupérer | to recover | ray-kew-pay-RAY
+example: Je récupère mieux en dormant. | I recover better by sleeping.
+vocab: rattraper | to catch up | rah-trah-PAY
+example: Je rattrape le sommeil le week-end. | I catch up on sleep at weekends.
+vocab: il est recommandé de | it's recommended to | eel eh ruh-koh-mahn-DAY duh
+example: Il est recommandé de dormir huit heures. | It's recommended to sleep eight hours.
+vocab: il est préférable de | it's preferable to | eel eh pray-fay-RAH-bluh duh
+example: Il est préférable d'éviter les écrans. | It's preferable to avoid screens.
+vocab: ne… que | only | nuh… kuh
+example: Je ne dors que six heures. | I only sleep six hours.
+vocab: ne serait-ce que | if only, even if just | nuh seh-reh-SUH kuh
+example: Ne serait-ce que deux jours par semaine. | If only two days a week.
+vocab: l'écran | screen | lay-KRAHN
+example: Évitez les écrans le soir. | Avoid screens in the evening.
+
+[grammar]
+grammar: Impersonal recommendations | General advice is often given impersonally with il est recommandé de / il est conseillé de / il est préférable de / il est essentiel de plus infinitive: il est recommandé de dormir sept à huit heures. For a specific person, use que plus subjunctive: il est préférable que tu te couches plus tôt. These structures sound formal and neutral, as in articles and leaflets.
+example: Il est recommandé de dormir sept heures. | It's recommended to sleep seven hours.
+example: Il est préférable que tu te couches plus tôt. | It's preferable that you go to bed earlier.
+grammar: Ne… que and ne serait-ce que | Ne que means only and surrounds the verb: je ne dors que six heures; il n'y a que le week-end qu'il rattrape. It restricts without being a negation. Ne serait-ce que plus noun / numerical expression means even if only: ne serait-ce que deux jours par semaine, ne serait-ce que dix minutes.
+example: Je ne dors que six heures. | I only sleep six hours.
+example: Ne serait-ce que dix minutes par jour. | Even if only ten minutes a day.
+
+[quiz]
+quiz: Which sentence is correct? | Je dors ne que six heures. | Je ne dors six que heures. | Je ne que dors six heures. | Je ne dors que six heures. | D | Ne… que around the verb.
+quiz: What does “ne serait-ce que” mean? | even if only | it wouldn't be that | unless it is | although it was | A | Ne serait-ce que = even if only.
+quiz: What does “récupérer” mean in this lesson? | to collect again | to recover | to pick up the phone | to recuperate money | B | Récupérer = recover.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

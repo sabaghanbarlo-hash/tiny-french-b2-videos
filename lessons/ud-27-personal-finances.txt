@@ -1,0 +1,47 @@
+title: Personal Finances
+episode: UD27
+scene: home
+
+[story]
+Marinette: Je voudrais acheter un appartement, mais il faudrait que j'épargne davantage. | I'd like to buy a flat, but I'd need to save more.
+Adrien: À supposer que tu mettes cinq cents euros de côté par mois, ça te prendrait combien de temps ? | Supposing you put five hundred euros aside each month, how long would that take you?
+Marinette: Environ dix ans. En admettant que les prix restent stables, ce qui est peu probable. | About ten years. Assuming prices stay stable, which is unlikely.
+Adrien: Dans l'hypothèse où tu emprunterais, il faudrait vérifier le taux d'intérêt et la durée de remboursement. | In the event that you borrowed, you'd have to check the interest rate and the repayment term.
+Marinette: Au cas où mes revenus baisseraient, j'aurais besoin d'une marge de sécurité. | In case my income fell, I'd need a safety margin.
+Adrien: Si j'étais toi, je garderais toujours trois mois de dépenses en réserve. | If I were you, I'd always keep three months' expenses in reserve.
+
+[vocab]
+vocab: épargner | to save (money) | ay-pahr-NYAY
+example: J'épargne chaque mois. | I save every month.
+vocab: emprunter | to borrow | ahn-pruhn-TAY
+example: Je dois emprunter de l'argent. | I'd have to borrow money.
+vocab: rembourser | to repay | rahn-boor-SAY
+example: Je rembourse mon prêt. | I'm repaying my loan.
+vocab: le taux d'intérêt | interest rate | luh TOH dan-tay-REH
+example: Le taux d'intérêt est élevé. | The interest rate is high.
+vocab: à supposer que | supposing that (+ subj.) | ah sew-poh-ZAY kuh
+example: À supposer que tu épargnes plus… | Supposing you saved more…
+vocab: en admettant que | assuming that (+ subj.) | ahn nahd-MEH-tahn kuh
+example: En admettant que les prix restent stables… | Assuming prices stay stable…
+vocab: dans l'hypothèse où | in the event that (+ cond.) | dahn lee-poh-TEHZ oo
+example: Dans l'hypothèse où tu emprunterais… | In the event that you borrowed…
+vocab: la marge de sécurité | safety margin | lah MARZH duh say-kew-ree-TAY
+example: Garde une marge de sécurité. | Keep a safety margin.
+vocab: la réserve | reserve, buffer | lah ray-ZEHRV
+example: J'ai une réserve de trois mois. | I have a three-month reserve.
+
+[grammar]
+grammar: Hypotheses: subjunctive vs conditional | À supposer que, en admettant que, pourvu que, à condition que plus subjunctive: à supposer que tu mettes cinq cents euros de côté. Dans l'hypothèse où, au cas où plus conditional: dans l'hypothèse où tu emprunterais; au cas où mes revenus baisseraient. Si plus imparfait plus conditional present for an unlikely situation: si j'étais toi, je garderais trois mois de dépenses.
+example: À supposer que tu épargnes plus, tu achèterais plus vite. | Supposing you saved more, you'd buy sooner.
+example: Au cas où mes revenus baisseraient, j'aurais une réserve. | In case my income fell, I'd have a reserve.
+grammar: Talking about money | Épargner / économiser, emprunter, prêter, rembourser, dépenser, un prêt, un crédit, un taux d'intérêt, les mensualités, le reste à vivre. Advice: mieux vaut épargner régulièrement; il est préférable de ne pas dépenser plus qu'on ne gagne.
+example: Je rembourse des mensualités chaque mois. | I repay monthly instalments each month.
+example: Mieux vaut épargner régulièrement. | It's better to save regularly.
+
+[quiz]
+quiz: Which mood follows “à supposer que”? | indicative | conditional | imperative | subjunctive | D | À supposer que + subjunctive.
+quiz: Which tense follows “dans l'hypothèse où”? | conditional | subjunctive | futur | imparfait | A | Dans l'hypothèse où + conditional.
+quiz: What is “un taux d'intérêt”? | an interest group | an interest rate | a tax on interest | a rate of tourism | B | Taux d'intérêt = interest rate.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

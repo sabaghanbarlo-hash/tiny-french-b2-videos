@@ -1,0 +1,47 @@
+title: Register and Tone
+episode: UD37
+scene: cafe
+
+[story]
+Marinette: Voici trois versions de la même phrase. Familier : « T'as vu, y a plus de bagnoles ? » | Here are three versions of the same sentence. Informal: “Seen it, there are no more cars?”
+Adrien: Courant : « Tu as vu ? Il n'y a plus de voitures. » | Standard: “Did you see? There are no more cars.”
+Marinette: Soutenu : « Avez-vous remarqué qu'aucun véhicule ne circule plus dans cette rue ? » | Formal: “Have you noticed that no vehicle runs any more along this street?”
+Adrien: Le soutenu utilise l'inversion et un vocabulaire plus précis : véhicule au lieu de bagnole. | The formal one uses inversion and more precise vocabulary: vehicle instead of motor.
+Marinette: Dans un e-mail professionnel, on écrirait cela et non ça, et on garderait toujours ne dans la négation. | In a professional e-mail, we'd write cela and not ça, and we'd always keep ne in negatives.
+Adrien: L'essentiel, c'est d'adapter le ton à son interlocuteur et à la situation. | The main thing is to adapt your tone to the person you're speaking to and to the situation.
+
+[vocab]
+vocab: le registre de langue | language register | luh ruh-ZHEES-truh duh LAHNG
+example: Choisis le bon registre de langue. | Choose the right register.
+vocab: soutenu / soutenue | formal, elevated | soo-tuh-NEW
+example: Un style soutenu. | A formal style.
+vocab: courant / courante | standard, everyday | koo-RAHN
+example: Le français courant. | Everyday French.
+vocab: familier / familière | informal, colloquial | fah-mee-LYAY
+example: Un mot familier. | A colloquial word.
+vocab: l'interlocuteur | the person one is speaking to | lan-tehr-loh-kew-TUHR
+example: Adapte le ton à ton interlocuteur. | Adapt the tone to the person.
+vocab: le véhicule / la bagnole | vehicle / car (slang) | luh vay-ee-KEWL
+example: Aucun véhicule ne circule. | No vehicle is moving.
+vocab: l'inversion | inversion | lan-vehr-SYOHN
+example: L'inversion est soutenue. | Inversion is formal.
+vocab: cela / ça | that (formal / informal) | suh-LAH / SAH
+example: Cela me semble correct. | That seems right to me.
+vocab: adapter le ton | to adapt the tone | ah-dahp-TAY luh TOHN
+example: Il faut adapter le ton. | You must adapt the tone.
+
+[grammar]
+grammar: Three registers | Familier: dropped ne, tu / on, slang, tag questions, ça. Courant: complete negatives, standard vocabulary, est-ce que questions. Soutenu: inversion, precise vocabulary, cela, passé simple in writing, subjunctive in more contexts. Choose the register according to the reader, the situation and the medium.
+example: Je sais pas. (familier) | I dunno.
+example: Je ne sais pas. (courant) | I don't know.
+grammar: Formal transformations | To raise the register: use inversion in questions, keep ne, replace ça by cela, replace familiar nouns with precise ones, use nominalisation, and avoid contractions and fillers. To lower it: drop ne, use on for nous, and use tu with friends.
+example: Avez-vous remarqué cette évolution ? | Have you noticed this change?
+example: Cela ne me semble pas pertinent. | That doesn't seem relevant to me.
+
+[quiz]
+quiz: Which sentence is in the formal register? | Tu as vu ça ? | Avez-vous remarqué cette évolution ? | T'as remarqué, toi ? | Vous avez vu ça ou pas ? | B | Inversion = formal.
+quiz: Which is the informal version of “Je ne sais pas”? | Ne sais-je pas ? | Je l'ignore. | Je sais pas. | Je ne saurais dire. | C | Dropping ne = informal.
+quiz: What does “adapter le ton” mean? | to tune a musical tone | to change the colour | to play louder | to adjust how you speak or write to the situation | D | Adapter le ton.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

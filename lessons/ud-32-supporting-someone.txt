@@ -1,0 +1,47 @@
+title: Supporting Someone
+episode: UD32
+scene: park
+
+[story]
+Adrien: Merci de m'écouter. J'avais besoin que quelqu'un m'écoute sans me juger. | Thanks for listening. I needed someone to listen to me without judging me.
+Marinette: Je suis touchée que tu te sois confié à moi. Je suis là pour toi. | I'm touched that you confided in me. I'm here for you.
+Adrien: Ça me soulage que tu comprennes. Je n'arrive pas à tout garder pour moi. | It relieves me that you understand. I can't keep it all to myself.
+Marinette: Je voudrais que tu prennes soin de toi cette semaine. Fais des choses qui te font du bien. | I'd like you to look after yourself this week. Do things that do you good.
+Adrien: Tu as raison. Je vais en parler aussi à un proche, et si besoin à un professionnel. | You're right. I'll talk to someone close too, and if needed to a professional.
+Marinette: C'est une bonne idée. Je ne peux pas tout résoudre, mais je peux t'écouter quand tu veux. | That's a good idea. I can't solve everything, but I can listen whenever you like.
+
+[vocab]
+vocab: se confier à | to confide in | suh kohn-FYAY ah
+example: Il s'est confié à moi. | He confided in me.
+vocab: être à l'écoute | to be a good listener | EH-truh ah lay-KOOT
+example: Elle est toujours à l'écoute. | She's always there to listen.
+vocab: soutenir | to support | soo-tuh-NEER
+example: Je veux te soutenir. | I want to support you.
+vocab: prendre soin de soi | to look after oneself | PRAHN-druh swan duh SWAH
+example: Prends soin de toi. | Look after yourself.
+vocab: un proche | a close one, a relative or close friend | uhn PROHSH
+example: Parle à un proche. | Talk to someone close.
+vocab: soulager | to relieve | soo-lah-ZHAY
+example: Ça me soulage de t'en parler. | It relieves me to tell you.
+vocab: être touché(e) que | to be touched that | EH-truh too-SHAY kuh
+example: Je suis touchée que tu te confies. | I'm touched that you're confiding.
+vocab: juger | to judge | zhew-ZHAY
+example: Sans me juger. | Without judging me.
+vocab: se sentir seul(e) | to feel alone | suh sahn-TEER SUHL
+example: Tu ne dois pas te sentir seul. | You shouldn't feel alone.
+
+[grammar]
+grammar: Emotions and wishes with the subjunctive | After verbs of emotion and wish, use the subjunctive when the subject changes: je suis touché que tu te sois confié, ça me soulage que tu comprennes, j'ai besoin que quelqu'un m'écoute, je voudrais que tu prennes soin de toi, j'apprécie que tu sois là. If the subject is the same, use the infinitive: j'ai besoin de parler, je suis content de t'écouter.
+example: J'avais besoin que quelqu'un m'écoute. | I needed someone to listen to me.
+example: Je suis touchée que tu te sois confié à moi. | I'm touched that you confided in me.
+grammar: Being supportive | Show you are listening: je t'écoute, prends ton temps, je comprends. Reassure without promising: je suis là pour toi, tu n'es pas seul. Encourage self-care: prends soin de toi, accorde-toi du repos. Suggest other support: parle-en à un proche, à ton médecin, à un professionnel. Avoid minimising: ce n'est rien est rarement utile; dis plutôt je comprends que ce soit difficile.
+example: Prends soin de toi. | Look after yourself.
+example: Je comprends que ce soit difficile. | I understand that it's hard.
+
+[quiz]
+quiz: Which sentence is correct? | J'ai besoin que quelqu'un m'écoutera. | J'ai besoin quelqu'un m'écoute. | J'ai besoin que quelqu'un m'écoute. | J'ai besoin de quelqu'un m'écoute que. | C | Avoir besoin que + subjunctive.
+quiz: What does “prendre soin de soi” mean? | to take a sin | to be careful of a sign | to take care of a person | to look after oneself | D | Soin = care.
+quiz: Which phrase supports without minimising? | Je comprends que ce soit difficile. | Ce n'est rien. | Arrête de t'inquiéter. | Tout le monde a des problèmes. | A | Acknowledging the feeling.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

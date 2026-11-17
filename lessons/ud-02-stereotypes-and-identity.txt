@@ -1,0 +1,47 @@
+title: Stereotypes and Identity
+episode: UD2
+scene: cafe
+
+[story]
+Marinette: Qu'est-ce que les gens disent sur les Français, là-bas ? | What do people say about the French over there?
+Adrien: Ils pensent que nous râlons tout le temps et que nous mangeons tous du fromage à chaque repas. | They think we complain all the time and that we all eat cheese at every meal.
+Marinette: En général, on a tendance à exagérer. Certains Français râlent beaucoup, d'autres pas du tout. | Generally, people tend to exaggerate. Some French people complain a lot, others not at all.
+Adrien: Exactement. Aucun peuple ne correspond entièrement à son cliché. Il ne faut pas généraliser. | Exactly. No people fully matches its cliché. You mustn't generalise.
+Marinette: Pourtant, plusieurs études montrent que chacun a des habitudes liées à sa culture. | Yet several studies show that everyone has habits linked to their culture.
+Adrien: Dans l'ensemble, c'est vrai, mais la plupart des gens sont bien plus nuancés qu'on ne le dit. | On the whole that's true, but most people are far more nuanced than people say.
+
+[vocab]
+vocab: le cliché | cliché, stereotype | luh klee-SHAY
+example: C'est un cliché sur les Français. | That's a cliché about the French.
+vocab: le préjugé | prejudice | luh pray-zhew-ZHAY
+example: Il faut combattre les préjugés. | We must fight prejudice.
+vocab: généraliser | to generalise | zhay-nay-rah-lee-ZAY
+example: Il ne faut pas généraliser. | You mustn't generalise.
+vocab: avoir tendance à | to tend to | ah-VWAHR tahn-DAHNSS ah
+example: On a tendance à exagérer. | People tend to exaggerate.
+vocab: dans l'ensemble | on the whole | dahn lahn-SAHN-bluh
+example: Dans l'ensemble, c'est vrai. | On the whole, it's true.
+vocab: nuancé / nuancée | nuanced | new-ahn-SAY
+example: Son avis est nuancé. | His opinion is nuanced.
+vocab: râler | to grumble, to complain | rah-LAY
+example: Les gens râlent beaucoup. | People grumble a lot.
+vocab: aucun / aucune | no, not any | oh-KUHN
+example: Aucun peuple n'est identique. | No people is identical.
+vocab: chacun / chacune | each one, everyone | shah-KUHN
+example: Chacun a ses habitudes. | Everyone has their habits.
+
+[grammar]
+grammar: Generalising with nuance | To avoid absolute statements, use avoir tendance à plus infinitive, en général, dans l'ensemble, souvent, la plupart des, nombre de. Contrast groups with certains d'autres. Correct yourself with pas toujours, pas forcément, loin de là. Say il ne faut pas généraliser.
+example: On a tendance à exagérer. | People tend to exaggerate.
+example: Certains râlent, d'autres pas du tout. | Some complain, others not at all.
+grammar: Indefinite adjectives and pronouns | Aucun ne plus verb: aucun peuple ne correspond à son cliché. Chacun: chacun a ses habitudes. Plusieurs and quelques are always plural: plusieurs études montrent que Certains / certaines: certains pensent que Tout le monde takes a singular verb: tout le monde parle vite. Personne ne and rien ne work like aucun ne.
+example: Aucun peuple ne correspond à son cliché. | No people matches its cliché.
+example: Plusieurs études montrent que c'est vrai. | Several studies show it's true.
+
+[quiz]
+quiz: Which phrase softens a generalisation? | avoir tendance à | il est certain que | tout le monde | à coup sûr | A | Avoir tendance à = to tend to.
+quiz: Which is correct? | Chacun ont ses habitudes. | Chacun a ses habitudes. | Chaque ont ses habitudes. | Chacun avons ses habitudes. | B | Chacun takes a singular verb.
+quiz: What does “dans l'ensemble” mean? | all together, in a group | in the set | on the whole | all the time | C | Dans l'ensemble = overall.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

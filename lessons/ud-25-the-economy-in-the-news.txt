@@ -1,0 +1,47 @@
+title: The Economy in the News
+episode: UD25
+scene: cafe
+
+[story]
+Marinette: Le pouvoir d'achat a reculé cette année. Les prix ont augmenté plus vite que les salaires. | Purchasing power has fallen this year. Prices have gone up faster than wages.
+Adrien: Cette inflation est due en grande partie à la hausse des coûts de l'énergie. | This inflation is largely due to the rise in energy costs.
+Marinette: Du fait de cette hausse, les ménages réduisent leurs dépenses, ce qui entraîne un ralentissement de la croissance. | Because of this rise, households are cutting spending, which leads to a slowdown in growth.
+Adrien: Faute de visibilité, les entreprises hésitent à embaucher. | For lack of visibility, companies hesitate to hire.
+Marinette: Le taux de chômage pourrait donc remonter, ce qui résulterait d'une demande plus faible. | The unemployment rate could therefore rise, which would result from weaker demand.
+Adrien: Tout cela découle d'un enchaînement de crises. Il est difficile d'en isoler une seule cause. | All of this stems from a chain of crises. It's hard to isolate a single cause.
+
+[vocab]
+vocab: le pouvoir d'achat | purchasing power | luh poo-VWAHR dah-SHAH
+example: Le pouvoir d'achat recule. | Purchasing power is falling.
+vocab: l'inflation | inflation | lan-flah-SYOHN
+example: L'inflation reste élevée. | Inflation remains high.
+vocab: la croissance | growth | lah krwah-SAHNSS
+example: La croissance ralentit. | Growth is slowing.
+vocab: le taux | rate | luh TOH
+example: Le taux de chômage monte. | The unemployment rate is rising.
+vocab: provoquer / entraîner | to cause, to lead to | proh-voh-KAY / ahn-treh-NAY
+example: La hausse entraîne un ralentissement. | The rise leads to a slowdown.
+vocab: résulter de / découler de | to result from, to stem from | ray-zewl-TAY duh / day-koo-LAY duh
+example: Cela découle d'une crise. | This stems from a crisis.
+vocab: être dû à | to be due to | EH-truh DEW ah
+example: Cette hausse est due à l'énergie. | This rise is due to energy.
+vocab: du fait de / en raison de | because of | dew FEH duh / ahn reh-ZOHN duh
+example: En raison de la crise, les prix montent. | Because of the crisis, prices are rising.
+vocab: faute de | for lack of | FOHT duh
+example: Faute de moyens, il renonce. | For lack of means, he gives up.
+
+[grammar]
+grammar: Cause and effect vocabulary | Cause: être dû à, résulter de, découler de, provenir de, en raison de, du fait de, faute de, grâce à, à cause de. Effect: provoquer, entraîner, causer, engendrer, conduire à, avoir pour conséquence. Examples: cette inflation est due à la hausse de l'énergie; la hausse entraîne un ralentissement de la croissance; faute de visibilité, les entreprises n'embauchent pas.
+example: Cette inflation est due à la hausse de l'énergie. | This inflation is due to the rise in energy.
+example: La hausse entraîne un ralentissement de la croissance. | The rise leads to a slowdown in growth.
+grammar: Du fait de, en raison de, faute de | Du fait de plus noun / en raison de plus noun give a neutral cause in formal writing: du fait de cette hausse, les ménages réduisent leurs dépenses. Faute de plus noun expresses a cause by lack: faute de visibilité, les entreprises hésitent. With a verb: du fait que plus indicative, faute de pouvoir plus infinitive. Compare parce que with en raison de.
+example: En raison de la crise, les prix montent. | Because of the crisis, prices are rising.
+example: Faute de pouvoir payer, il renonce. | For lack of being able to pay, he gives up.
+
+[quiz]
+quiz: Which expression gives a cause by lack? | grâce à | faute de | du fait de | afin de | B | Faute de = for lack of.
+quiz: What does “découler de” mean? | to flow down | to take off | to stem from | to run over | C | Découler de = result from.
+quiz: Which verb means “to lead to”? | étonner | entendre | entourer | entraîner | D | Entraîner = lead to.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

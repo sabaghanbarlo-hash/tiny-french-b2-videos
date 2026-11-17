@@ -1,0 +1,47 @@
+title: Reviewing an Exhibition
+episode: UD22
+scene: town
+
+[story]
+Adrien: Ce qui m'a frappé, c'est la lumière. Les toiles dégagent une impression de calme. | What struck me is the light. The canvases give off an impression of calm.
+Marinette: C'est le dernier tableau qui m'a le plus marquée. Il évoque la solitude de manière très subtile. | It's the last painting that affected me most. It evokes loneliness in a very subtle way.
+Adrien: Ce dont on parle peu, c'est la technique : les couches de peinture suscitent un effet de profondeur. | What people rarely mention is the technique: the layers of paint create an effect of depth.
+Marinette: Certaines œuvres font penser à Hopper, d'autres à Monet. Ce que j'apprécie, c'est cette liberté. | Some works remind you of Hopper, others of Monet. What I appreciate is that freedom.
+Adrien: Si je devais critiquer, ce serait la scénographie, un peu trop sombre. | If I had to criticise, it would be the exhibition design, a bit too dark.
+Marinette: Mais dans l'ensemble, c'est une exposition qui donne à réfléchir. | But overall, it's an exhibition that gives you something to think about.
+
+[vocab]
+vocab: la toile | canvas, painting | lah TWAHL
+example: Cette toile est magnifique. | This canvas is magnificent.
+vocab: l'œuvre | work (of art) | LUH-vruh
+example: Cette œuvre date de 1900. | This work dates from 1900.
+vocab: évoquer | to evoke | ay-voh-KAY
+example: Le tableau évoque la solitude. | The painting evokes loneliness.
+vocab: susciter | to arouse, to create | sews-see-TAY
+example: Cette œuvre suscite l'émotion. | This work arouses emotion.
+vocab: dégager | to give off, to convey | day-gah-ZHAY
+example: Les toiles dégagent un calme. | The paintings convey calm.
+vocab: faire penser à | to remind (of) | fehr pahn-SAY ah
+example: Ça me fait penser à Monet. | It reminds me of Monet.
+vocab: la scénographie | exhibition design | lah say-noh-grah-FEE
+example: La scénographie est réussie. | The exhibition design is successful.
+vocab: subtil / subtile | subtle | sewb-TEEL
+example: L'effet est très subtil. | The effect is very subtle.
+vocab: donner à réfléchir | to give food for thought | doh-NAY ah ray-flay-SHEER
+example: Cette expo donne à réfléchir. | This exhibition gives food for thought.
+
+[grammar]
+grammar: Emphatic structures | To stress a part of the sentence: c'est qui / que, ce qui c'est, ce que c'est, ce dont c'est. They put the important idea at the end for emphasis.
+example: Ce qui m'a frappé, c'est la lumière. | What struck me is the light.
+example: C'est le dernier tableau qui m'a marquée. | It's the last painting that affected me.
+grammar: Describing art | Verbs for effect: évoquer, suggérer, dégager, susciter, symboliser, représenter, mettre en scène. Comparisons: faire penser à, rappeler, s'inspirer de. Adjectives: subtil, frappant, saisissant, déroutant, épuré, chargé. Balance a critique with certes mais, un peu trop, d'un côté de l'autre, dans l'ensemble.
+example: Le tableau évoque la solitude. | The painting evokes loneliness.
+example: Dans l'ensemble, c'est une exposition réussie. | Overall, it's a successful exhibition.
+
+[quiz]
+quiz: Which sentence stresses the subject? | C'est le dernier tableau qui m'a marquée. | C'est le dernier tableau que m'a marquée. | C'est qui le dernier tableau m'a marquée. | Ce qui le dernier tableau m'a marquée. | A | C'est… qui.
+quiz: What does “évoquer” mean? | to avoid | to evoke | to invoke a law | to remove | B | Évoquer = evoke.
+quiz: What does “donner à réfléchir” mean? | to give a reflection in a mirror | to give back thoughts | to give food for thought | to make reflect light | C | Donner à réfléchir.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

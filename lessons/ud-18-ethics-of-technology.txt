@@ -1,0 +1,47 @@
+title: The Ethics of Technology
+episode: UD18
+scene: terrace
+
+[story]
+Marinette: L'automatisation présente de réels bénéfices, mais aussi des risques pour l'emploi. | Automation has real benefits, but also risks for employment.
+Adrien: L'enjeu, c'est de l'encadrer pour que les travailleurs ne soient pas laissés de côté. | The challenge is to regulate it so that workers aren't left behind.
+Marinette: Il faut réglementer l'usage de l'intelligence artificielle avant qu'elle ne s'impose partout. | AI use must be regulated before it takes over everywhere.
+Adrien: Certaines entreprises l'utilisent sans que les employés soient informés, ce qui pose un problème de transparence. | Some companies use it without employees being informed, which poses a transparency problem.
+Marinette: Il faudra attendre que des règles soient fixées pour juger vraiment ses effets. | We'll have to wait until rules are set to really judge its effects.
+Adrien: En attendant, mettons en garde contre les usages abusifs, jusqu'à ce que la loi évolue. | In the meantime, let's warn against abuses, until the law evolves.
+
+[vocab]
+vocab: l'enjeu | stake, challenge | lahn-ZHUH
+example: L'enjeu est de taille. | The stakes are high.
+vocab: le risque | risk | luh REESK
+example: Il y a des risques pour l'emploi. | There are risks for employment.
+vocab: le bénéfice | benefit | luh bay-nay-FEESS
+example: Les bénéfices sont réels. | The benefits are real.
+vocab: encadrer | to regulate, to supervise | ahn-kah-DRAY
+example: Il faut encadrer cette technologie. | This technology must be regulated.
+vocab: réglementer | to regulate (by rules) | ray-gluh-mahn-TAY
+example: L'État veut réglementer l'usage. | The state wants to regulate its use.
+vocab: l'intelligence artificielle | artificial intelligence | lan-teh-lee-ZHAHNSS ar-tee-fee-SYEHL
+example: L'intelligence artificielle se développe. | Artificial intelligence is developing.
+vocab: mettre en garde contre | to warn against | MEH-truh ahn GARD KOHN-truh
+example: Il met en garde contre les abus. | He warns against abuses.
+vocab: la transparence | transparency | lah trahns-pah-RAHNSS
+example: Il manque de transparence. | There is a lack of transparency.
+vocab: abusif / abusive | excessive, abusive | ah-bew-ZEEF
+example: Un usage abusif est dangereux. | Excessive use is dangerous.
+
+[grammar]
+grammar: Subjunctive conjunctions | Some conjunctions always take the subjunctive: pour que / afin que, avant que, jusqu'à ce que, sans que, à condition que, à moins que, bien que, quoique. Pour que les travailleurs ne soient pas laissés de côté; avant qu'elle ne s'impose partout; jusqu'à ce que la loi évolue; sans que les employés soient informés. If both verbs have the same subject, use the infinitive: avant de partir, sans parler.
+example: Sans que les employés soient informés. | Without the employees being informed.
+example: Jusqu'à ce que la loi évolue. | Until the law evolves.
+grammar: Presenting both sides | Introduce benefits and risks: d'un côté / de l'autre, certes mais, d'une part d'autre part, si les avantages sont réels, les risques ne sont pas négligeables. Recommend: il faudrait que plus subjunctive, il convient de plus infinitive, il est indispensable de plus infinitive, il importe que plus subjunctive. Warn: mettre en garde contre.
+example: Si les avantages sont réels, les risques sont aussi présents. | If the benefits are real, the risks are also present.
+example: Il convient d'encadrer cette technologie. | It's appropriate to regulate this technology.
+
+[quiz]
+quiz: Which mood follows “sans que”? | subjunctive | indicative | conditional | imperative | A | Sans que + subjunctive.
+quiz: Which sentence is correct? | Attendons jusqu'à ce que la loi évolue pas. | Attendons jusqu'à ce que la loi évolue. | Attendons jusqu'à ce la loi évolue. | Attendons jusqu'que la loi évolue. | B | Jusqu'à ce que + subjunctive.
+quiz: What does “mettre en garde contre” mean? | to put on guard duty | to protect | to warn against | to look after | C | Mettre en garde = warn.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

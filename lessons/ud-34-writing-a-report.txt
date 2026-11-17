@@ -1,0 +1,47 @@
+title: Writing a Report
+episode: UD34
+scene: classroom
+
+[story]
+Marinette: Commençons par le constat : la satisfaction des clients a baissé de dix points en un an. | Let's start with the findings: customer satisfaction has fallen by ten points in a year.
+Adrien: Il ressort de l'enquête que les délais de livraison posent problème. Force est de constater que nous avons perdu des clients. | The survey shows that delivery times are a problem. We must admit that we have lost customers.
+Marinette: En outre, le service après-vente est jugé peu réactif. Par ailleurs, les prix sont perçus comme trop élevés. | In addition, after-sales service is judged unresponsive. Also, prices are seen as too high.
+Adrien: Par conséquent, il faudrait améliorer la logistique, ainsi que former les équipes. | Consequently, we should improve logistics, as well as train the teams.
+Marinette: Passons aux recommandations : réduire les délais, simplifier les retours et suivre les réclamations. | Let's move to the recommendations: reduce delays, simplify returns and track complaints.
+Adrien: En conclusion, des mesures rapides permettraient de regagner la confiance. | In conclusion, quick measures would help win back trust.
+
+[vocab]
+vocab: le constat | finding, observation | luh kohn-STAH
+example: Le constat est clair. | The finding is clear.
+vocab: l'analyse | analysis | lah-nah-LEEZ
+example: L'analyse montre une baisse. | The analysis shows a fall.
+vocab: les recommandations | recommendations | lay ruh-koh-mahn-dah-SYOHN
+example: Voici nos recommandations. | Here are our recommendations.
+vocab: il ressort de… que | it emerges from… that | eel ruh-SOHR duh… kuh
+example: Il ressort de l'enquête que… | It emerges from the survey that…
+vocab: force est de constater que | one must admit that | FOHRS eh duh kohn-stah-TAY kuh
+example: Force est de constater que c'est vrai. | One must admit that it's true.
+vocab: en outre / par ailleurs | in addition / besides | ahn OO-truh / pahr ah-YUHR
+example: En outre, les prix sont élevés. | In addition, prices are high.
+vocab: par conséquent | consequently | pahr kohn-say-KAHN
+example: Par conséquent, il faut agir. | Consequently, action is needed.
+vocab: le délai de livraison | delivery time | luh day-LEH duh lee-vreh-ZOHN
+example: Les délais de livraison sont trop longs. | Delivery times are too long.
+vocab: la réclamation | complaint | lah ray-klah-mah-SYOHN
+example: Nous suivons les réclamations. | We track complaints.
+
+[grammar]
+grammar: Structure of a report | A standard report has: introduction, constat, analyse, recommandations, conclusion. Use present tense for findings and conditional for proposals. Number the sections and keep sentences short.
+example: Il ressort de l'enquête que les délais posent problème. | It emerges from the survey that delivery times are a problem.
+example: Des mesures rapides permettraient de regagner la confiance. | Quick measures would help win back trust.
+grammar: Formal connectors | To add: en outre, par ailleurs, de plus, ainsi que. To conclude from a fact: par conséquent, dès lors, c'est pourquoi, ainsi. To introduce evidence: il ressort de, selon, d'après. To acknowledge a fact: force est de constater que, il faut reconnaître que. Avoid colloquial words in a formal report.
+example: Par conséquent, il faudrait améliorer la logistique. | Consequently, we should improve logistics.
+example: Force est de constater que nous avons perdu des clients. | We must admit that we have lost customers.
+
+[quiz]
+quiz: Which connector adds an argument? | en outre | par conséquent | pourtant | faute de | A | En outre = in addition.
+quiz: What does “par conséquent” mean? | in the meantime | consequently | nevertheless | for example | B | Par conséquent = consequently.
+quiz: Which tense is used for proposals in a report? | passé simple | imparfait | conditional | plus-que-parfait | C | Conditional for recommendations.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

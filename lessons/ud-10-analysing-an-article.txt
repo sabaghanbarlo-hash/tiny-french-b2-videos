@@ -1,0 +1,47 @@
+title: Analysing an Article
+episode: UD10
+scene: bookstore
+
+[story]
+Marinette: L'auteur soutient que la ville devrait fermer le centre aux voitures. Il estime que c'est la seule solution. | The author argues that the city should close the centre to cars. He believes it's the only solution.
+Adrien: Il met en avant plusieurs arguments : la pollution, le bruit et la sécurité des piétons. | He puts forward several arguments: pollution, noise and pedestrian safety.
+Marinette: Il affirme que les commerces n'en souffriraient pas. Mais il ne cite aucune étude. | He claims shops wouldn't suffer. But he cites no study.
+Adrien: Il souligne aussi que la mairie aurait déjà reçu plusieurs plaintes. Mais c'est à vérifier. | He also stresses that the town hall has reportedly already received several complaints. But that needs checking.
+Marinette: Ce conditionnel indique que l'information n'est pas confirmée. | That conditional shows that the information isn't confirmed.
+Adrien: Oui. En résumé, sa position est claire, mais ses preuves sont fragiles. | Yes. In summary, his position is clear, but his evidence is weak.
+
+[vocab]
+vocab: soutenir que | to argue that | soo-tuh-NEER kuh
+example: L'auteur soutient que c'est la solution. | The author argues that it's the solution.
+vocab: affirmer que | to claim that | ah-feer-MAY kuh
+example: Il affirme que c'est vrai. | He claims it's true.
+vocab: prétendre que | to claim (with doubt) | pray-TAHN-druh kuh
+example: Il prétend que c'est faux. | He claims it's false.
+vocab: estimer que | to believe, to consider that | ehs-tee-MAY kuh
+example: Elle estime que c'est urgent. | She considers it urgent.
+vocab: souligner que | to stress that | soo-lee-NYAY kuh
+example: Il souligne que le bruit augmente. | He stresses that noise is increasing.
+vocab: mettre en avant | to put forward, to highlight | MEH-truh ahn nah-VAHN
+example: Il met en avant trois arguments. | He puts forward three arguments.
+vocab: l'argument | argument | lahr-gew-MAHN
+example: C'est un argument solide. | That's a solid argument.
+vocab: la preuve | evidence, proof | lah PRUHV
+example: Il manque des preuves. | Evidence is missing.
+vocab: fragile | weak, fragile | frah-ZHEEL
+example: Ses preuves sont fragiles. | His evidence is weak.
+
+[grammar]
+grammar: Reporting verbs | Verbs that introduce someone's opinion, in increasing strength of commitment: estimer que, penser que, soutenir que, affirmer que, assurer que, prétendre que. They take the indicative or the conditional: l'auteur estime que c'est la seule solution. Other reporting verbs: souligner que, rappeler que, ajouter que, reconnaître que, dénoncer le fait que.
+example: Il estime que c'est la seule solution. | He believes it's the only solution.
+example: Il prétend que les commerces n'en souffriraient pas. | He claims shops wouldn't suffer.
+grammar: The journalistic conditional | Journalists use the conditional to report information that isn't confirmed: la mairie aurait reçu plusieurs plaintes, le ministre serait en voyage, il y aurait trois blessés. It tells the reader to be careful. Do not translate it as a real conditional: it marks distance and uncertainty, not a hypothesis.
+example: La mairie aurait reçu plusieurs plaintes. | The town hall has reportedly received several complaints.
+example: Il y aurait trois blessés. | There are said to be three injured.
+
+[quiz]
+quiz: Which verb shows the speaker doubts the claim? | prétendre que | estimer que | souligner que | rappeler que | A | Prétendre = claim with doubt.
+quiz: What does “la mairie aurait reçu des plaintes” indicate? | a real hypothesis | unconfirmed information | a polite request | a wish | B | Journalistic conditional.
+quiz: What does “les preuves sont fragiles” mean? | the evidence is broken | the evidence is small | the evidence is weak | the evidence is old | C | Fragile = weak.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Lifelong Learning
+episode: UD7
+scene: classroom
+
+[story]
+Marinette: Ma collègue Julie, ayant travaillé dix ans dans la banque, a décidé de changer de métier. | My colleague Julie, having worked ten years in banking, decided to change careers.
+Adrien: Elle s'est reconvertie dans quoi ? | What did she retrain in?
+Marinette: Dans la formation d'adultes. En suivant des cours du soir, elle a obtenu un diplôme. | In adult education. By taking evening classes, she got a qualification.
+Adrien: Étant donné son expérience, c'était une bonne idée. Les entreprises cherchent des profils qui ont de l'expérience. | Given her experience, it was a good idea. Companies look for profiles with experience.
+Marinette: Oui, en valorisant ses acquis, elle a rapidement trouvé un poste. | Yes, by highlighting her prior experience, she quickly found a job.
+Adrien: Les gens souhaitant se former devraient commencer par faire le point sur leurs compétences. | People wishing to retrain should start by taking stock of their skills.
+
+[vocab]
+vocab: se reconvertir | to retrain, change career | suh ruh-kohn-vehr-TEER
+example: Elle s'est reconvertie dans l'enseignement. | She retrained in teaching.
+vocab: la formation continue | continuing education | lah fohr-mah-SYOHN kohn-tee-NEW
+example: Je suis en formation continue. | I'm in continuing education.
+vocab: les cours du soir | evening classes | lay KOOR dew SWAHR
+example: Elle suit des cours du soir. | She takes evening classes.
+vocab: les acquis | acquired skills, prior experience | lay zah-KEE
+example: Elle valorise ses acquis. | She highlights her prior experience.
+vocab: le profil | profile | luh proh-FEEL
+example: Ils cherchent des profils expérimentés. | They look for experienced profiles.
+vocab: faire le point sur | to take stock of | fehr luh PWAN sewr
+example: Je fais le point sur mes compétences. | I'm taking stock of my skills.
+vocab: étant donné | given that | ay-TAHN doh-NAY
+example: Étant donné son expérience… | Given her experience…
+vocab: souhaitant | wishing (present participle) | sweh-TAHN
+example: Les gens souhaitant se former… | People wishing to retrain…
+vocab: un diplôme | qualification, degree | uhn dee-PLOHM
+example: Elle a obtenu un diplôme. | She obtained a qualification.
+
+[grammar]
+grammar: Present participle and gérondif | The present participle works like an adjective or a relative clause with qui, and does not agree with the noun when it's a verb: les gens souhaitant se former. The gérondif says how or when, with the same subject as the main verb: en suivant des cours du soir, elle a obtenu un diplôme. Exceptions: étant, ayant, sachant.
+example: Les gens souhaitant se former… | People wishing to retrain…
+example: En suivant des cours du soir, elle a obtenu un diplôme. | By taking evening classes, she got a qualification.
+grammar: Ayant + past participle, étant donné | Ayant / étant plus past participle shows an action that happened earlier or the cause: ayant travaillé dix ans dans la banque, elle a changé de métier; étant arrivée trop tard, elle a raté le début. Étant donné plus noun means given that: étant donné son expérience. The subject must be the same in both parts.
+example: Ayant travaillé dix ans dans la banque, elle a changé de métier. | Having worked ten years in banking, she changed career.
+example: Étant donné son expérience, c'était une bonne idée. | Given her experience, it was a good idea.
+
+[quiz]
+quiz: What is the present participle of “souhaiter”? | souhaitait | souhaité | souhaitons | souhaitant | D | Nous souhaitons → souhaitant.
+quiz: What does “ayant travaillé dix ans” express? | an earlier action and cause | a future action | a wish | a habit | A | Ayant + participle.
+quiz: What does “faire le point sur” mean? | to score a point | to take stock of | to make a point | to stop at | B | Faire le point = assess.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

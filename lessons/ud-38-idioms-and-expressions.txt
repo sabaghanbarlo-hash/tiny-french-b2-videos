@@ -1,0 +1,47 @@
+title: Idioms and Expressions
+episode: UD38
+scene: street
+
+[story]
+Marinette: Hier, mon ami m'a posé un lapin. J'ai attendu une heure et j'avais le cafard. | Yesterday my friend stood me up. I waited an hour and I felt down.
+Adrien: Poser un lapin, c'est ne pas venir à un rendez-vous, sans prévenir. Quelle déception ! | Stand someone up means not turning up to a meeting without warning. What a disappointment!
+Marinette: Et ce soir, je dois acheter un cadeau : cette montre coûte les yeux de la tête ! | And tonight I have to buy a gift: this watch costs an arm and a leg!
+Adrien: Au sens propre, ça n'a aucun sens. Au sens figuré, ça veut dire très cher. | Literally it makes no sense. Figuratively, it means very expensive.
+Marinette: Je suis tombée dans les pommes quand j'ai vu le prix. Je me suis sentie comme un poisson hors de l'eau. | I fainted when I saw the price. I felt like a fish out of water.
+Adrien: Un coup de main ? Je peux te dépanner, ça ne mange pas de pain ! | A hand? I can help you out, it costs nothing!
+
+[vocab]
+vocab: poser un lapin | to stand someone up | poh-ZAY uhn lah-PAN
+example: Il m'a posé un lapin. | He stood me up.
+vocab: avoir le cafard | to feel down | ah-VWAHR luh kah-FAHR
+example: J'ai le cafard aujourd'hui. | I feel down today.
+vocab: coûter les yeux de la tête | to cost an arm and a leg | koo-TAY lay ZYUH duh lah TEHT
+example: Cette voiture coûte les yeux de la tête. | This car costs an arm and a leg.
+vocab: tomber dans les pommes | to faint | tohm-BAY dahn lay POHM
+example: Elle est tombée dans les pommes. | She fainted.
+vocab: un coup de main | a helping hand | uhn KOO duh MAN
+example: Tu peux me donner un coup de main ? | Can you give me a hand?
+vocab: ça ne mange pas de pain | it doesn't cost anything, it can't hurt | sah nuh MAHNZH pah duh PAN
+example: Essaie, ça ne mange pas de pain. | Try it, it can't hurt.
+vocab: comme un poisson hors de l'eau | like a fish out of water | kohm uhn pwah-SOHN OHR duh LOH
+example: Je me sens comme un poisson hors de l'eau. | I feel like a fish out of water.
+vocab: au sens propre / figuré | literally / figuratively | oh SAHNSS PROH-pruh / fee-gew-RAY
+example: Au sens figuré, c'est très cher. | Figuratively, it's very expensive.
+vocab: dépanner quelqu'un | to help someone out | day-pah-NAY kehl-KUHN
+example: Je peux te dépanner. | I can help you out.
+
+[grammar]
+grammar: Idioms: literal vs figurative | Many idioms use images that don't make sense literally: poser un lapin, coûter les yeux de la tête, tomber dans les pommes, avoir le cafard. Learn them as whole phrases; do not translate word by word. Use au sens propre for the literal meaning and au sens figuré for the figurative one. Most idioms belong to the familiar or standard register.
+example: Il m'a posé un lapin. | He stood me up.
+example: Au sens figuré, ça veut dire très cher. | Figuratively, it means very expensive.
+grammar: Similes with comme | A simile compares with comme: se sentir comme un poisson hors de l'eau, têtu comme une mule, rapide comme l'éclair, fort comme un bœuf, blanc comme neige. Combine an adjective plus comme plus noun: malin comme un singe, doux comme un agneau. They add colour but should be used sparingly in formal writing.
+example: Se sentir comme un poisson hors de l'eau. | To feel like a fish out of water.
+example: Il est têtu comme une mule. | He's as stubborn as a mule.
+
+[quiz]
+quiz: What does “poser un lapin” mean? | to stand someone up | to put a rabbit down | to play a trick | to feed an animal | A | Poser un lapin = not show up.
+quiz: What does “tomber dans les pommes” mean? | to fall in an orchard | to faint | to trip over apples | to be clumsy | B | Tomber dans les pommes = faint.
+quiz: What does “au sens figuré” mean? | literally | in the singular | figuratively | in good sense only | C | Au sens figuré = figuratively.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

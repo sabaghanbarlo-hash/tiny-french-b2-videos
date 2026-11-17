@@ -1,0 +1,47 @@
+title: Explaining How Something Works
+episode: UD19
+scene: classroom
+
+[story]
+Adrien: Une pompe à chaleur, ça marche comment, concrètement ? | How does a heat pump work, in practice?
+Marinette: Il s'agit d'un système qui prend la chaleur de l'air extérieur pour chauffer la maison. | It's a system that takes heat from the outside air to heat the house.
+Adrien: Comment est-ce possible quand il fait froid dehors ? | How is that possible when it's cold outside?
+Marinette: Le principe consiste à utiliser un fluide qui s'évapore à basse température, ce qui permet d'absorber la chaleur. | The principle consists in using a fluid that evaporates at low temperature, which makes it possible to absorb heat.
+Adrien: Et ensuite ? | And then?
+Marinette: Un compresseur, au moyen duquel on augmente la pression, rend cette chaleur utilisable pour le chauffage. | A compressor, by means of which the pressure is increased, makes that heat usable for heating.
+
+[vocab]
+vocab: fonctionner / marcher | to work, to function | fohnk-syoh-NAY
+example: Comment ça fonctionne ? | How does it work?
+vocab: consister à / en | to consist of | kohn-sees-TAY ah
+example: Le principe consiste à utiliser un fluide. | The principle consists in using a fluid.
+vocab: permettre de | to make it possible to | pehr-MEH-truh duh
+example: Cela permet d'absorber la chaleur. | This makes it possible to absorb heat.
+vocab: il s'agit de | it is a matter of | eel sah-ZHEE duh
+example: Il s'agit d'un système simple. | It's a simple system.
+vocab: la pompe à chaleur | heat pump | lah pohmp ah shah-LUHR
+example: La pompe à chaleur chauffe la maison. | The heat pump heats the house.
+vocab: le fluide | fluid | luh flew-EED
+example: Le fluide s'évapore. | The fluid evaporates.
+vocab: s'évaporer | to evaporate | say-vah-poh-RAY
+example: L'eau s'évapore. | Water evaporates.
+vocab: la pression | pressure | lah preh-SYOHN
+example: On augmente la pression. | We increase the pressure.
+vocab: au moyen de | by means of | oh mwah-YAN duh
+example: Au moyen d'un compresseur. | By means of a compressor.
+
+[grammar]
+grammar: Explaining a mechanism | Il s'agit de plus noun introduces what something is: il s'agit d'un système qui Consister à plus infinitive or consister en plus noun. Permettre de plus infinitive or permettre à quelqu'un de plus infinitive. Ce qui permet de refers back to a whole clause. Au moyen de / grâce à / à l'aide de plus noun give the means.
+example: Le principe consiste à utiliser un fluide. | The principle consists in using a fluid.
+example: Cela permet de chauffer la maison. | This makes it possible to heat the house.
+grammar: Compound relatives for processes | With a preposition plus thing, use lequel / laquelle: le compresseur au moyen duquel on augmente la pression; le fluide grâce auquel la chaleur est absorbée; le système dans lequel circule le fluide. Order the stages: d'abord, ensuite, puis, enfin; en premier lieu, par la suite.
+example: Le compresseur au moyen duquel on augmente la pression. | The compressor by means of which the pressure is increased.
+example: Le système dans lequel circule le fluide. | The system in which the fluid circulates.
+
+[quiz]
+quiz: Which verb means “to consist of” an action? | consulter à | consoler à | constater à | consister à | D | Consister à + infinitive.
+quiz: What does “cela permet de chauffer” mean? | this makes it possible to heat | this allows heating to stop | this permits the heater | this heats permitted | A | Permettre de = make possible.
+quiz: Which relative pronoun fits? “le système dans ___ circule le fluide” | lequels | lequel | laquelle | qui | B | Système is masculine singular.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

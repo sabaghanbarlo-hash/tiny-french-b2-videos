@@ -1,0 +1,47 @@
+title: Cultural Heritage
+episode: UD24
+scene: eiffel
+
+[story]
+Marinette: Cette abbaye, datant du douzième siècle, fait actuellement l'objet d'une restauration. | This abbey, dating from the twelfth century, is currently being restored.
+Adrien: Elle a été classée monument historique en mille neuf cent trente. Il convient de la préserver. | It was listed as a historic monument in 1930. It should be preserved.
+Marinette: Il importe que les travaux respectent l'architecture d'origine, sans qu'on dénature le lieu. | It's important that the work respects the original architecture, without the place being distorted.
+Adrien: Les fonds publics ne suffisent pas toujours. Des associations participent aussi à la collecte. | Public funds are not always enough. Associations also take part in fundraising.
+Marinette: Le patrimoine, c'est ce que nous transmettons aux générations futures. | Heritage is what we pass on to future generations.
+Adrien: Bien qu'il coûte cher, il donne une identité à nos villes. Ce serait dommage de le perdre. | Although it's expensive, it gives our towns an identity. It would be a pity to lose it.
+
+[vocab]
+vocab: le patrimoine | heritage | luh pah-tree-MWAHN
+example: Le patrimoine est précieux. | Heritage is precious.
+vocab: l'abbaye | abbey | lah-bay-EE
+example: L'abbaye est très ancienne. | The abbey is very old.
+vocab: classé monument historique | listed as a historic monument | klah-SAY moh-new-MAHN ees-toh-REEK
+example: L'abbaye est classée monument historique. | The abbey is listed as a historic monument.
+vocab: faire l'objet de | to be the subject of | fehr lohb-ZHEH duh
+example: Elle fait l'objet d'une restauration. | It is undergoing restoration.
+vocab: dater de | to date from | dah-TAY duh
+example: Elle date du douzième siècle. | It dates from the twelfth century.
+vocab: restaurer / la restauration | to restore / restoration | rehs-toh-RAY
+example: On restaure la façade. | They're restoring the façade.
+vocab: préserver | to preserve | pray-zehr-VAY
+example: Il faut préserver ce lieu. | We must preserve this place.
+vocab: transmettre | to pass on | trahns-MEH-truh
+example: Nous transmettons notre patrimoine. | We pass on our heritage.
+vocab: dénaturer | to distort, to alter (the nature of) | day-nah-tew-RAY
+example: Ne dénaturons pas le lieu. | Let's not distort the place.
+
+[grammar]
+grammar: Faire l'objet de, dater de | Faire l'objet de plus noun means to be the subject of something: l'abbaye fait l'objet d'une restauration. Dater de plus date or century: elle date du douzième siècle; with the present participle: datant du douzième siècle. Être classé / inscrit: l'abbaye a été classée monument historique, inscrite au patrimoine mondial.
+example: L'abbaye fait l'objet d'une restauration. | The abbey is being restored.
+example: L'abbaye, datant du douzième siècle, est magnifique. | The abbey, dating from the twelfth century, is magnificent.
+grammar: Il convient de, il importe que | Il convient de plus infinitive: il convient de préserver ce lieu. Il importe que plus subjunctive: il importe que les travaux respectent l'architecture. Other formal expressions: il est essentiel de, il est primordial que, il est souhaitable que. They are used in formal writing and speeches.
+example: Il convient de préserver ce lieu. | This place should be preserved.
+example: Il importe que les travaux respectent l'architecture. | It's important that the work respects the architecture.
+
+[quiz]
+quiz: What does “faire l'objet de” mean? | to make an object of | to create a thing | to be the subject of | to give an object | C | Faire l'objet de = be subject to.
+quiz: Which mood follows “il importe que”? | indicative | conditional | imperative | subjunctive | D | Il importe que + subjunctive.
+quiz: What does “classé monument historique” mean? | listed as a historic monument | classified as a classroom | ranked as a school | sorted as ancient | A | Classé = listed.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

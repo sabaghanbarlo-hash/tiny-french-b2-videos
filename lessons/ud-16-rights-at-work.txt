@@ -1,0 +1,47 @@
+title: Rights at Work
+episode: UD16
+scene: classroom
+
+[story]
+Adrien: Marinette, j'ai droit à combien de jours de congé par an ? | Marinette, how many days of leave am I entitled to per year?
+Marinette: Légalement, tu as droit à cinq semaines de congés payés. Il est nécessaire que ton employeur t'accorde au moins deux semaines consécutives. | Legally, you're entitled to five weeks of paid leave. It's necessary that your employer grants you at least two consecutive weeks.
+Adrien: Et si je démissionne ? Je suis tenu de faire un préavis ? | And if I resign? Am I obliged to work a notice period?
+Marinette: Oui, la durée dépend de ton contrat. Tu dois remettre ta lettre de démission en main propre ou par courrier recommandé. | Yes, the length depends on your contract. You must hand in your resignation letter in person or by registered post.
+Adrien: Mon employeur peut-il me licencier sans motif ? | Can my employer dismiss me without a reason?
+Marinette: Non. Il est tenu de justifier le licenciement. Tu es en droit de contester s'il n'est pas fondé. | No. He's obliged to justify the dismissal. You're entitled to contest it if it isn't well founded.
+
+[vocab]
+vocab: le congé payé | paid leave | luh kohn-ZHAY peh-YAY
+example: J'ai cinq semaines de congés payés. | I have five weeks of paid leave.
+vocab: démissionner | to resign | day-mee-syoh-NAY
+example: Elle a démissionné. | She resigned.
+vocab: licencier | to dismiss, to lay off | lee-sahn-SYAY
+example: L'entreprise a licencié dix personnes. | The company laid off ten people.
+vocab: le licenciement | dismissal | luh lee-sahn-see-MAHN
+example: Le licenciement doit être justifié. | The dismissal must be justified.
+vocab: le préavis | notice period | luh pray-ah-VEE
+example: Je fais mon préavis. | I'm working my notice.
+vocab: le contrat de travail | employment contract | luh kohn-TRAH duh trah-VAHY
+example: Lis bien ton contrat de travail. | Read your employment contract carefully.
+vocab: l'employeur | employer | lahn-plwah-YUHR
+example: Mon employeur est très correct. | My employer is very fair.
+vocab: contester | to contest, to challenge | kohn-tehs-TAY
+example: Tu peux contester la décision. | You can contest the decision.
+vocab: fondé / fondée | well founded | fohn-DAY
+example: Le licenciement n'est pas fondé. | The dismissal is not well founded.
+
+[grammar]
+grammar: Employment vocabulary and structures | Avoir droit à plus noun: avoir droit à cinq semaines de congés. Être en droit de plus infinitive: être en droit de contester. Être tenu de plus infinitive: l'employeur est tenu de justifier le licenciement. Il est nécessaire / obligatoire / interdit de plus infinitive for rules: il est interdit de licencier sans motif. Remettre sa lettre de démission en main propre.
+example: J'ai droit à cinq semaines de congés payés. | I'm entitled to five weeks of paid leave.
+example: L'employeur est tenu de justifier le licenciement. | The employer is obliged to justify the dismissal.
+grammar: Il est nécessaire que + subjunctive | After il est nécessaire que, il est obligatoire que, il faut que, il est essentiel que, the verb is in the subjunctive: il est nécessaire que ton employeur t'accorde deux semaines; il est essentiel que tu lises ton contrat. For a general rule with no subject, use the infinitive: il est nécessaire de lire son contrat.
+example: Il est nécessaire que ton employeur t'accorde deux semaines. | It's necessary that your employer grants you two weeks.
+example: Il est essentiel que tu lises ton contrat. | It's essential that you read your contract.
+
+[quiz]
+quiz: How do you say “I'm entitled to five weeks”? | J'ai droit de cinq semaines. | Je suis droit à cinq semaines. | J'ai droit à cinq semaines. | J'ai le droit cinq semaines. | C | Avoir droit à + noun.
+quiz: What does “licencier” mean? | to resign | to hire | to promote | to dismiss | D | Licencier = dismiss.
+quiz: Which mood follows “il est nécessaire que”? | subjunctive | indicative | conditional | imperative | A | Il est nécessaire que + subjunctive.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

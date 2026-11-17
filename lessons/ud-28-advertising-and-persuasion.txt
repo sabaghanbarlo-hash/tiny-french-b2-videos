@@ -1,0 +1,47 @@
+title: Advertising and Persuasion
+episode: UD28
+scene: town
+
+[story]
+Marinette: Regarde ce slogan : « Vivez plus, dépensez moins ». Il est conçu de façon à ce que le message reste en tête. | Look at this slogan: “Live more, spend less”. It's designed so that the message stays in mind.
+Adrien: La publicité cible les jeunes : elle utilise tellement d'images dynamiques qu'on a envie d'acheter tout de suite. | The advert targets young people: it uses so many dynamic images that you want to buy straight away.
+Marinette: Elle incite à consommer en faisant croire que c'est une question d'identité. | It encourages consuming by making you believe it's a question of identity.
+Adrien: Les marques font en sorte que le produit soit associé à une émotion positive. | Brands make sure the product is associated with a positive emotion.
+Marinette: Il y a tant de messages qu'on finit par ne plus les remarquer, mais ils agissent quand même. | There are so many messages that you end up no longer noticing them, but they work anyway.
+Adrien: D'où l'importance d'un regard critique : on peut être séduit sans être dupe. | Hence the importance of a critical eye: you can be charmed without being fooled.
+
+[vocab]
+vocab: le slogan | slogan | luh sloh-GAHN
+example: Ce slogan est accrocheur. | This slogan is catchy.
+vocab: cibler | to target | see-BLAY
+example: La publicité cible les jeunes. | The advert targets young people.
+vocab: inciter à | to encourage to | an-see-TAY ah
+example: Elle incite à consommer. | It encourages consumption.
+vocab: séduire | to charm, to win over | say-DWEER
+example: Cette publicité séduit les clients. | This advert wins over customers.
+vocab: accrocheur / accrocheuse | catchy | ah-kroh-SHUHR
+example: Un slogan accrocheur. | A catchy slogan.
+vocab: faire en sorte que | to make sure that | fehr ahn SOHRT kuh
+example: Ils font en sorte que le message reste. | They make sure the message sticks.
+vocab: de façon à ce que | so that (+ subj.) | duh fah-SOHN ah suh kuh
+example: Le slogan est conçu de façon à ce qu'on le retienne. | The slogan is designed so that it's remembered.
+vocab: le regard critique | critical eye | luh ruh-GAHR kree-TEEK
+example: Il faut un regard critique. | A critical eye is needed.
+vocab: dupe | fooled, duped | DEWP
+example: On peut être séduit sans être dupe. | You can be charmed without being fooled.
+
+[grammar]
+grammar: Purpose with the subjunctive | Faire en sorte que plus subjunctive means to make sure that: les marques font en sorte que le produit soit associé à une émotion positive. De façon à ce que / de manière à ce que plus subjunctive give a purpose: le slogan est conçu de façon à ce qu'on le retienne. With the same subject, use de façon à / de manière à plus infinitive: il parle lentement de façon à être compris.
+example: Ils font en sorte que le message reste. | They make sure the message sticks.
+example: Il parle lentement de façon à être compris. | He speaks slowly so as to be understood.
+grammar: Intensity and consequence | Tellement / tant / si que plus indicative express a consequence of intensity: elle utilise tellement d'images dynamiques qu'on a envie d'acheter; il y a tant de messages qu'on ne les remarque plus. Tellement de / tant de plus noun; tellement / si plus adjective or adverb. In the negative or question, que is followed by the subjunctive: il n'y a pas tant de messages qu'on les remarque.
+example: Il y a tant de messages qu'on ne les remarque plus. | There are so many messages that you no longer notice them.
+example: Elle est si séduisante qu'on la croit. | It's so appealing that people believe it.
+
+[quiz]
+quiz: Which mood follows “faire en sorte que”? | indicative | conditional | subjunctive | imperative | C | Faire en sorte que + subjunctive.
+quiz: What does “cibler” mean? | to cite | to aim for a river | to cancel | to target | D | Cibler = target.
+quiz: What does “accrocheur” mean? | catchy | clingy | sticky | hooked | A | Accrocheur = catchy.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Presenting Results
+episode: UD20
+scene: classroom
+
+[story]
+Marinette: Comme le montre ce graphique, la consommation d'énergie a diminué de dix pour cent en deux ans. | As this graph shows, energy consumption has fallen by ten percent in two years.
+Adrien: Elle est passée de cent vingt à cent huit kilowattheures par mois ? | Did it go from one hundred and twenty to one hundred and eight kilowatt-hours a month?
+Marinette: Exactement. La baisse a été plus importante que prévu, tandis que les coûts sont restés stables. | Exactly. The fall was bigger than expected, while costs remained stable.
+Adrien: Et les émissions de gaz à effet de serre ? | And greenhouse gas emissions?
+Marinette: Elles ont diminué de moitié ainsi que la facture d'eau, de même que la consommation de carburant. | They've halved, as has the water bill, as well as fuel consumption.
+Adrien: Pour conclure, on peut dire que le programme a atteint ses objectifs. | To conclude, we can say that the programme has met its targets.
+
+[vocab]
+vocab: le graphique | graph, chart | luh grah-FEEK
+example: Ce graphique montre une baisse. | This graph shows a fall.
+vocab: augmenter de | to increase by | ohg-mahn-TAY duh
+example: Les ventes augmentent de dix pour cent. | Sales increase by ten percent.
+vocab: diminuer de moitié | to halve | dee-mee-new-AY duh mwah-TYAY
+example: Les coûts ont diminué de moitié. | Costs have halved.
+vocab: passer de… à… | to go from… to… | pah-SAY duh… ah
+example: Il est passé de 120 à 108. | It went from 120 to 108.
+vocab: atteindre | to reach, to achieve | ah-TAN-druh
+example: Nous avons atteint nos objectifs. | We have achieved our targets.
+vocab: rester stable | to stay stable | rehs-TAY STAH-bluh
+example: Les coûts restent stables. | Costs remain stable.
+vocab: ainsi que / de même que | as well as | an-SEE kuh / duh MEHM kuh
+example: Les émissions ont baissé, ainsi que la facture. | Emissions fell, as did the bill.
+vocab: comme le montre | as shown by | kohm luh MOHN-truh
+example: Comme le montre ce graphique… | As this graph shows…
+vocab: l'objectif | target, objective | lohb-zhehk-TEEF
+example: Nous avons atteint l'objectif. | We have reached the target.
+
+[grammar]
+grammar: Describing data | Say how much something changes with augmenter / diminuer / baisser de plus percentage or number, how it moves with passer de X à Y, and where it ends up with atteindre or se stabiliser à. Verbs of stability: rester stable, se maintenir. Compare to expectations: plus important que prévu, moins fort qu'attendu. Use la hausse / la baisse / la progression as nouns: une hausse de 5 %.
+example: Les coûts ont diminué de moitié. | Costs have halved.
+example: La baisse a été plus importante que prévu. | The fall was bigger than expected.
+grammar: Linking and structuring a talk | Introduce evidence: comme le montre le graphique, d'après les données, selon notre étude. Add elements with ainsi que, de même que, tout comme. Order the talk: tout d'abord, ensuite, enfin, pour conclure. Conclude: on peut dire que, il en ressort que.
+example: Comme le montre ce graphique, la consommation a baissé. | As this graph shows, consumption has fallen.
+example: Il en ressort que le programme a atteint ses objectifs. | It emerges that the programme has met its targets.
+
+[quiz]
+quiz: How do you say “fell by ten percent”? | a diminué à dix pour cent | a diminué en dix pour cent | a diminué de dix pour cent | a diminué par dix pour cent | C | Diminuer de + figure.
+quiz: What does “rester stable” mean? | to stay in the stable | to rest steadily | to remain a stable | to stay stable | D | Rester stable.
+quiz: Which phrase introduces evidence from a graph? | Comme le montre ce graphique | Au cas où ce graphique | Quoique ce graphique | Bien que ce graphique | A | Comme le montre…
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

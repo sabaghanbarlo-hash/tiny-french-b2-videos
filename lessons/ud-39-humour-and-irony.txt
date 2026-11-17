@@ -1,0 +1,47 @@
+title: Humour and Irony
+episode: UD39
+scene: terrace
+
+[story]
+Marinette: Quel beau temps ! On dirait qu'il pleut depuis une semaine. | What lovely weather! You'd think it had been raining for a week.
+Adrien: C'est de l'ironie : tu dis le contraire de ce que tu penses. | That's irony: you say the opposite of what you think.
+Marinette: Exact. Et si je dis : « Ce n'est pas désagréable de prendre une douche en marchant », c'est une litote. | Exactly. And if I say: “It's not unpleasant to take a shower while walking”, that's a litotes.
+Adrien: Les Français aiment beaucoup ça. Il n'est pas rare qu'ils disent « pas mal » pour « excellent ». | The French love that. It's not unusual for them to say “not bad” for “excellent”.
+Marinette: Et les jeux de mots ? « Je suis contre les escaliers ; je préfère les marches arrière. » | And wordplay? “I'm against stairs; I prefer going in reverse.”
+Adrien: Un calembour, un double sens… Il faut maîtriser la langue pour en rire sans être pris au pied de la lettre. | A pun, a double meaning… You have to master the language to laugh without being taken literally.
+
+[vocab]
+vocab: l'ironie | irony | lee-roh-NEE
+example: Il parle avec ironie. | He speaks ironically.
+vocab: la litote | understatement (litotes) | lah lee-TOHT
+example: « Pas mal » est une litote. | “Not bad” is a litotes.
+vocab: le calembour / le jeu de mots | pun, wordplay | luh kah-lahn-BOOR
+example: Il adore les calembours. | He loves puns.
+vocab: le double sens | double meaning | luh DOO-bluh SAHNSS
+example: La phrase a un double sens. | The sentence has a double meaning.
+vocab: prendre au pied de la lettre | to take literally | PRAHN-druh oh PYAY duh lah LEH-truh
+example: Ne le prends pas au pied de la lettre. | Don't take it literally.
+vocab: pas mal | not bad (quite good) | pah MAHL
+example: Ce film n'est pas mal. | This film's not bad.
+vocab: ce n'est pas sans intérêt | it's quite interesting | suh neh pah sahn zan-tay-REH
+example: Ce n'est pas sans intérêt. | It's not without interest.
+vocab: il n'est pas rare que | it is not unusual that | eel neh pah RAHR kuh
+example: Il n'est pas rare qu'il pleuve ici. | It's not unusual for it to rain here.
+vocab: maîtriser | to master | meh-tree-ZAY
+example: Il maîtrise bien la langue. | He masters the language well.
+
+[grammar]
+grammar: Litotes and double negatives | A litotes says less to mean more by negating the opposite: ce n'est pas mauvais, ce n'est pas sans intérêt, il n'est pas rare que plus subjunctive, je ne suis pas mécontent, pas mal. It is common in French and often ironic or polite.
+example: Ce n'est pas sans intérêt. | It's quite interesting.
+example: Il n'est pas rare qu'il pleuve ici. | It's not unusual for it to rain here.
+grammar: Irony and wordplay | Irony says the opposite of what is meant: Quel beau temps !. The tone, the context and a pause help the listener. Puns exploit homophones or double meanings: je suis contre les escaliers, je préfère les marches arrière. Do not take everything au pied de la lettre. Signal humour with sans rire, c'est de l'humour, je plaisante.
+example: Quel beau temps ! (il pleut) | What lovely weather! (it's raining)
+example: Ne le prends pas au pied de la lettre. | Don't take it literally.
+
+[quiz]
+quiz: What does “ce n'est pas mal” usually mean? | it's very bad | it isn't harmful | it's not good | it's quite good | D | Litotes.
+quiz: Which mood follows “il n'est pas rare que”? | subjunctive | indicative | conditional | imperative | A | Il n'est pas rare que + subjunctive.
+quiz: What is irony? | saying more than you mean | saying the opposite of what you mean | saying nothing | repeating the same thing | B | Ironie = saying the opposite.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

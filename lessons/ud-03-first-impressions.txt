@@ -1,0 +1,47 @@
+title: First Impressions
+episode: UD3
+scene: terrace
+
+[story]
+Marinette: Au premier abord, Hugo me paraissait froid et distant. J'avais l'impression qu'il ne m'aimait pas. | At first sight, Hugo seemed cold and distant to me. I had the impression that he didn't like me.
+Adrien: Et en réalité ? | And in reality?
+Marinette: Il est simplement timide. Il me semble qu'il s'est senti mal à l'aise parce qu'il ne me connaissait pas. | He's simply shy. It seems to me that he felt uncomfortable because he didn't know me.
+Adrien: Il semble que beaucoup de premières impressions soient fausses. | It seems that many first impressions are wrong.
+Marinette: Oui, je me suis complètement trompée sur lui. Il est drôle et très généreux. | Yes, I was completely wrong about him. He's funny and very generous.
+Adrien: Il vaut mieux attendre avant de juger. Un malentendu est vite arrivé. | It's better to wait before judging. A misunderstanding happens quickly.
+
+[vocab]
+vocab: au premier abord | at first sight | oh pruh-MYAY ah-BOHR
+example: Au premier abord, il paraît froid. | At first sight, he seems cold.
+vocab: en réalité | in reality | ahn ray-ah-lee-TAY
+example: En réalité, il est timide. | In reality, he's shy.
+vocab: avoir l'impression que | to have the impression that | ah-VWAHR lan-preh-SYOHN kuh
+example: J'ai l'impression qu'il m'évite. | I have the impression he avoids me.
+vocab: sembler | to seem | sahn-BLAY
+example: Il semble fatigué. | He seems tired.
+vocab: paraître | to appear, to seem | pah-REH-truh
+example: Il paraît distant. | He appears distant.
+vocab: se tromper sur | to be wrong about | suh trohn-PAY sewr
+example: Je me suis trompée sur lui. | I was wrong about him.
+vocab: le malentendu | misunderstanding | luh mah-lahn-tahn-DEW
+example: C'était un malentendu. | It was a misunderstanding.
+vocab: mal à l'aise | uncomfortable | mahl ah LEHZ
+example: Il se sent mal à l'aise. | He feels uncomfortable.
+vocab: juger | to judge | zhew-ZHAY
+example: Il ne faut pas juger trop vite. | You mustn't judge too fast.
+
+[grammar]
+grammar: Sembler, paraître and the moods | Il me semble que plus indicative: il me semble qu'il est timide. Il semble que plus subjunctive: il semble que beaucoup d'impressions soient fausses. Il paraît que plus indicative means apparently: il paraît qu'il est timide. With an adjective: il semble / paraît fatigué, il a l'air fatigué. Avoir l'impression que plus indicative: j'ai l'impression qu'il m'évite.
+example: Il me semble qu'il est timide. | It seems to me he's shy.
+example: Il semble que ce soit un malentendu. | It seems it's a misunderstanding.
+grammar: Impression versus reality | Contrast what seemed with what is: au premier abord en réalité; à première vue finalement; il paraissait froid, mais il est en fait timide; contrairement à ce que je pensais. Admit a mistake: je me suis trompé sur lui, j'ai mal jugé la situation, c'était un malentendu. Advise: il vaut mieux attendre avant de juger.
+example: Au premier abord, il paraît froid, mais en réalité il est timide. | At first sight he seems cold, but in reality he's shy.
+example: Contrairement à ce que je pensais, il est drôle. | Contrary to what I thought, he's funny.
+
+[quiz]
+quiz: Which verb form follows “il semble que”? | indicative | conditional | imperative | subjunctive | D | Il semble que + subjunctive.
+quiz: Which sentence is correct? | Il me semble qu'il est timide. | Il me semble qu'il soit timide. | Il me semble qu'il est timide que. | Il me semble il est timide. | A | Il me semble que + indicative.
+quiz: What does “au premier abord” mean? | at the beginning of a harbour | at first sight | first of all | in the first place | B | Au premier abord = at first sight.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

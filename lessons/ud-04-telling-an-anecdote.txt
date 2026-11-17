@@ -1,0 +1,47 @@
+title: Telling an Anecdote
+episode: UD4
+scene: cafe
+
+[story]
+Adrien: Il m'est arrivé une histoire incroyable à Montréal. À peine étais-je descendu de l'avion que j'ai perdu mon portefeuille. | An incredible thing happened to me in Montréal. No sooner had I got off the plane than I lost my wallet.
+Marinette: Et alors ? Tu l'as retrouvé ? | And then? Did you find it?
+Adrien: Tout à coup, un homme m'a appelé : il l'avait trouvé par terre et il l'a rapporté au guichet. | All of a sudden, a man called me: he'd found it on the ground and brought it back to the desk.
+Marinette: Quelle chance ! Il t'est déjà arrivé de te perdre dans une ville inconnue ? | What luck! Has it ever happened to you to get lost in an unknown city?
+Adrien: Oui, mais ce jour-là, tout s'est bien terminé. Dans mon récit écrit, j'ai écrit : « Il ouvrit la porte, il vit son portefeuille et il sourit. » | Yes, but that day everything ended well. In my written account I wrote: “He opened the door, he saw his wallet and he smiled.”
+Marinette: Ah, le passé simple ! On ne le dit jamais à l'oral, mais on le lit partout dans les romans. | Ah, the passé simple! We never say it out loud, but we read it everywhere in novels.
+
+[vocab]
+vocab: à peine… que | hardly… when | ah PEHN… kuh
+example: À peine étais-je arrivé que j'ai perdu mon sac. | I had hardly arrived when I lost my bag.
+vocab: aussitôt | immediately | oh-see-TOH
+example: Aussitôt, il a téléphoné. | Immediately, he phoned.
+vocab: tout à coup | suddenly | too tah KOO
+example: Tout à coup, un homme m'a appelé. | Suddenly, a man called me.
+vocab: il m'est arrivé de | it has happened to me to | eel meh tah-ree-VAY duh
+example: Il m'est arrivé de me perdre. | I've sometimes got lost.
+vocab: rapporter | to bring back | rah-pohr-TAY
+example: Il a rapporté mon portefeuille. | He brought my wallet back.
+vocab: par terre | on the ground | pahr TEHR
+example: Il était par terre. | It was on the ground.
+vocab: le récit | account, narrative | luh ray-SEE
+example: Je lis un récit de voyage. | I'm reading a travel account.
+vocab: le passé simple | simple past (written) | luh pah-SAY SAN-pluh
+example: Le passé simple se lit dans les romans. | The passé simple is read in novels.
+vocab: sourire | to smile | soo-REER
+example: Il sourit. | He smiled.
+
+[grammar]
+grammar: À peine… que and il m'est arrivé de | À peine plus inversion plus que introduces something that happened immediately after: à peine étais-je descendu de l'avion que j'ai perdu mon portefeuille. With the past perfect in the first half, the main verb is in the passé composé or passé simple. Il m'est arrivé de plus infinitive means it has happened to me to do something: il m'est arrivé de me perdre. With a noun: il m'est arrivé une histoire incroyable.
+example: À peine étais-je arrivé que j'ai perdu mon sac. | I had hardly arrived when I lost my bag.
+example: Il m'est arrivé de me perdre. | I've sometimes got lost.
+grammar: Recognising the passé simple | The passé simple is a literary past tense used in written narratives, not in conversation. For -er verbs, third person: il ouvrit, ils ouvrirent, il parla, ils parlèrent. For -ir / -re verbs: il vit, il fit, il sourit, il prit, il dit. Être and avoir: il fut, il eut. You only need to recognise it when reading: replace it mentally with the passé composé.
+example: Il ouvrit la porte et sourit. | He opened the door and smiled.
+example: Elle vit son portefeuille. | She saw her wallet.
+
+[quiz]
+quiz: Which sentence is correct? | À peine j'étais arrivé que j'ai perdu mon sac. | À peine étais-je arrivé, j'ai perdu mon sac. | À peine étais-je arrivé que j'ai perdu mon sac. | À peine j'ai arrivé que perdu mon sac. | C | À peine + inversion + que.
+quiz: What is “il fit” in the passé composé? | il fera | il faisait | il fait | il a fait | D | Fit = passé simple of faire.
+quiz: When is the passé simple mainly used? | in written narratives | in conversation | in e-mails | in text messages | A | Literary tense.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

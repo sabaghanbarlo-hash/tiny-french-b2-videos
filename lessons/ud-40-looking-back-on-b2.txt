@@ -1,0 +1,47 @@
+title: Looking Back on B2
+episode: UD40
+scene: eiffel
+
+[story]
+Adrien: Quand je pense à mon premier cours, j'avais du mal à nuancer mon avis. Maintenant, je peux argumenter sans que cela me coûte. | When I think of my first lesson, I struggled to nuance my opinion. Now I can argue without it costing me.
+Marinette: Ce qui m'a le plus marquée, c'est le subjonctif passé. Bien que je l'aie longtemps évité, je l'utilise sans y penser. | What struck me most is the past subjunctive. Although I avoided it for a long time, I now use it without thinking.
+Adrien: Et les pronoms relatifs composés : la méthode grâce à laquelle j'ai progressé, c'est de les répéter à voix haute. | And compound relative pronouns: the method thanks to which I've progressed is repeating them out loud.
+Marinette: Ayant terminé ce niveau, nous pouvons lire des articles de fond et même suivre des débats. | Having finished this level, we can read in-depth articles and even follow debates.
+Adrien: Il reste du chemin : le niveau C1 demande plus de précision, de style et d'aisance. | There's still a way to go: level C1 demands more precision, style and fluency.
+Marinette: Mais quoique ce soit exigeant, ce n'est pas sans intérêt. Félicitations à nous deux, et bonne continuation ! | But although it's demanding, it's not without interest. Congratulations to us both, and all the best!
+
+[vocab]
+vocab: le bilan | review, assessment | luh bee-LAHN
+example: Faisons le bilan. | Let's take stock.
+vocab: nuancer son avis | to qualify one's opinion | new-ahn-SAY sohn ah-VEE
+example: Je sais nuancer mon avis. | I can qualify my opinion.
+vocab: argumenter | to argue (build a case) | ahr-gew-mahn-TAY
+example: Il sait argumenter. | He knows how to argue a case.
+vocab: l'aisance | ease, fluency | leh-ZAHNSS
+example: Elle parle avec aisance. | She speaks with ease.
+vocab: exigeant / exigeante | demanding | ehk-see-ZHAHN
+example: Ce niveau est exigeant. | This level is demanding.
+vocab: un article de fond | in-depth article | uhn nar-TEE-kluh duh FOHN
+example: Je lis un article de fond. | I'm reading an in-depth article.
+vocab: il reste du chemin | there's still a way to go | eel REHST dew shuh-MAN
+example: Il reste du chemin. | There's still a way to go.
+vocab: le niveau C1 | level C1 (advanced) | luh nee-VOH say-OON
+example: Je vise le niveau C1. | I'm aiming for level C1.
+vocab: bonne continuation | all the best | bohn kohn-tee-new-ah-SYOHN
+example: Merci, bonne continuation ! | Thanks, all the best!
+
+[grammar]
+grammar: What you can now do at B2 | You can: use the past subjunctive and the subjunctive after emotions, doubt and concessions; use compound relative pronouns and ce à quoi / ce dont; nominalise and write formal texts; use participles and the causative faire plus infinitive; present arguments with connectors; recognise registers and literary tenses; use idioms and litotes.
+example: Bien que je l'aie évité, je l'utilise sans y penser. | Although I avoided it, I now use it without thinking.
+example: Ayant terminé ce niveau, nous pouvons lire des articles de fond. | Having finished this level, we can read in-depth articles.
+grammar: Looking ahead to C1 | At C1, aim for greater precision, idiomatic range and stylistic control: more nominalisation, more subtle concessive and hypothetical structures, literary and journalistic texts, formal and spoken registers in full. Keep practising with real material: articles, debates, podcasts, novels. Thank and congratulate: félicitations, bonne continuation, merci pour tout.
+example: Il reste du chemin, mais le plus difficile est fait. | There's a way to go, but the hardest is done.
+example: Félicitations à nous deux ! | Congratulations to us both!
+
+[quiz]
+quiz: Which sentence uses the past subjunctive correctly? | Bien que je l'ai évité, je l'utilise maintenant. | Bien que je l'évitais, je l'utilise maintenant. | Bien que je l'aie évité, je l'utilise maintenant. | Bien que je l'aurais évité, je l'utilise maintenant. | C | Bien que + past subjunctive.
+quiz: What does “un article de fond” mean? | a back-page article | a bottom article | a fund article | an in-depth article | D | Article de fond = in-depth.
+quiz: Which level comes after B2? | C1 | B3 | A3 | C0 | A | C1 follows B2.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

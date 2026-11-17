@@ -1,0 +1,47 @@
+title: Reading a Contract
+episode: UD14
+scene: home
+
+[story]
+Marinette: Je ne comprends pas cette clause : « Le locataire s'engage à restituer le logement en bon état. » | I don't understand this clause: “The tenant undertakes to return the property in good condition.”
+Adrien: Ça veut dire que tu dois rendre l'appartement propre, sauf usure normale. | That means you must return the flat clean, apart from normal wear.
+Marinette: Et celle-ci : « Le bail est conclu pour trois ans, sauf disposition contraire. » | And this one: “The lease is concluded for three years, unless otherwise stated.”
+Adrien: Tu peux résilier plus tôt, à condition de respecter un préavis de trois mois. | You can terminate earlier, provided you respect three months' notice.
+Marinette: Le dépôt de garantie sera restitué dans quel délai ? | Within what time will the deposit be returned?
+Adrien: Dans le mois qui suit la remise des clés. Pose toutes tes questions avant de signer. | Within the month following the return of the keys. Ask all your questions before signing.
+
+[vocab]
+vocab: le bail | lease | luh BAHY
+example: Le bail dure trois ans. | The lease lasts three years.
+vocab: la clause | clause | lah KLOHZ
+example: Lis bien cette clause. | Read this clause carefully.
+vocab: le locataire / le propriétaire | tenant / landlord | luh loh-kah-TEHR
+example: Le locataire paie le loyer. | The tenant pays the rent.
+vocab: résilier | to terminate (a contract) | ray-zee-LYAY
+example: Je peux résilier le bail. | I can terminate the lease.
+vocab: le préavis | notice period | luh pray-ah-VEE
+example: Le préavis est de trois mois. | The notice period is three months.
+vocab: le dépôt de garantie | security deposit | luh day-POH duh gah-rahn-TEE
+example: Le dépôt de garantie est restitué. | The deposit is returned.
+vocab: s'engager à | to undertake to | sahn-gah-ZHAY ah
+example: Le locataire s'engage à payer. | The tenant undertakes to pay.
+vocab: restituer | to return, to give back | rehs-tee-tew-AY
+example: Il faut restituer les clés. | The keys must be returned.
+vocab: sauf disposition contraire | unless otherwise stated | SOHF dees-poh-zee-SYOHN kohn-TREHR
+example: Sauf disposition contraire, le bail dure trois ans. | Unless otherwise stated, the lease lasts three years.
+
+[grammar]
+grammar: Legal register | Contracts use the present for obligations and rights: le locataire s'engage à payer le loyer, le bailleur est tenu de remettre un logement décent. They use the future for events: le dépôt de garantie sera restitué dans un délai d'un mois. Typical formulas: sauf disposition contraire, à compter de la date de signature, dans un délai de, il est stipulé que, le présent contrat.
+example: Le locataire s'engage à payer le loyer. | The tenant undertakes to pay the rent.
+example: Le dépôt de garantie sera restitué dans un mois. | The deposit will be returned within a month.
+grammar: Clarifying before you sign | To understand a clause, ask: que signifie cette clause ? Cela veut dire que ? Pouvez-vous reformuler ? To check your obligations: qu'est-ce que je dois faire en cas de ? À partir de quand ? Dans quel délai ? Key phrases: sauf usure normale, à la charge du locataire, en cas de résiliation anticipée.
+example: Que signifie cette clause ? | What does this clause mean?
+example: Dans quel délai est-il restitué ? | Within what time is it returned?
+
+[quiz]
+quiz: What does “résilier un bail” mean? | to terminate a lease | to renew a lease | to sign a lease | to read a lease | A | Résilier = terminate.
+quiz: What does “sauf disposition contraire” mean? | despite the contrary | unless otherwise stated | with all provisions | except on Sundays | B | Sauf disposition contraire.
+quiz: What is “le préavis”? | the advance payment | the preface | the notice period | the inventory | C | Préavis = notice.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

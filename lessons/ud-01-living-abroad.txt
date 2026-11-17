@@ -1,0 +1,47 @@
+title: Living Abroad
+episode: UD1
+scene: station
+
+[story]
+Marinette: Alors, ce séjour à Montréal ? Je suis ravie que tu aies pu partir si longtemps. | So, that stay in Montréal? I'm delighted you were able to go for so long.
+Adrien: Bien que je parle la langue, j'ai subi un vrai choc culturel au début. | Although I speak the language, I experienced real culture shock at first.
+Marinette: Pourtant, le français est le même, non ? | But the French is the same, isn't it?
+Adrien: Pas tout à fait. Plus je restais, plus je découvrais des expressions que je ne connaissais pas. C'était d'autant plus déroutant que tout le monde parlait vite. | Not quite. The longer I stayed, the more expressions I discovered that I didn't know. It was all the more confusing as everyone spoke fast.
+Marinette: Tu as eu le mal du pays ? | Did you get homesick?
+Adrien: Parfois. Il est dommage que je n'aie pas pu rentrer pour les fêtes, mais je me suis fait de vrais amis. Je ne regrette pas d'être parti. | Sometimes. It's a pity I couldn't come home for the holidays, but I made real friends. I don't regret having gone.
+
+[vocab]
+vocab: le choc culturel | culture shock | luh SHOHK kewl-tew-REHL
+example: J'ai eu un choc culturel. | I experienced culture shock.
+vocab: le dépaysement | disorientation, change of scenery | luh day-pay-eez-MAHN
+example: Le dépaysement est total. | The change of scenery is total.
+vocab: le mal du pays | homesickness | luh MAHL dew pay-EE
+example: Il a le mal du pays. | He's homesick.
+vocab: s'adapter à | to adapt to | sah-dahp-TAY ah
+example: Je m'adapte à la vie ici. | I'm adapting to life here.
+vocab: s'intégrer | to integrate, fit in | san-tay-GRAY
+example: Il s'est bien intégré. | He's integrated well.
+vocab: déroutant / déroutante | confusing, disorienting | day-roo-TAHN
+example: L'accent était déroutant. | The accent was disorienting.
+vocab: le séjour | stay | luh say-ZHOOR
+example: Ce séjour était enrichissant. | This stay was enriching.
+vocab: enrichissant / enrichissante | enriching | ahn-ree-shee-SAHN
+example: C'est une expérience enrichissante. | It's an enriching experience.
+vocab: d'autant plus que | all the more so as | doh-tahn PLEW kuh
+example: C'était d'autant plus dur que j'étais seul. | It was all the harder as I was alone.
+
+[grammar]
+grammar: The past subjunctive | Form it with the subjunctive of avoir or être plus the past participle: que j'aie vécu, que tu aies pu, qu'il soit parti, que nous soyons arrivés. Use it when the action in the subordinate clause happened before the main verb: je suis ravi que tu aies pu partir; il est dommage que je n'aie pas pu rentrer; bien que j'aie vécu là-bas pendant deux ans. Emotions take the subjunctive.
+example: Je suis ravie que tu aies pu partir. | I'm delighted you were able to go.
+example: Bien qu'il soit parti jeune, il s'est adapté. | Although he left young, he adapted.
+grammar: Proportion: plus… plus… | Plus plus links two changes that grow together: plus je restais, plus je découvrais des expressions. D'autant plus que gives a reason that reinforces what you say: c'était d'autant plus déroutant que tout le monde parlait vite. Use the same tense in both halves.
+example: Plus je restais, plus je m'adaptais. | The longer I stayed, the more I adapted.
+example: C'était d'autant plus dur que j'étais seul. | It was all the harder as I was alone.
+
+[quiz]
+quiz: Which is the past subjunctive of “je pars”? | que je parte | que je sois parti | que je suis parti | que je serais parti | B | Subjunctive of être + participle.
+quiz: What does “plus je restais, plus je découvrais” express? | a comparison of two places | a past habit only | two changes growing together | a condition | C | Plus… plus… = the more… the more.
+quiz: What does “d'autant plus que” mean? | although | unless | instead of | all the more so as | D | Reinforces a reason.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

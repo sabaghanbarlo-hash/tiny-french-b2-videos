@@ -1,0 +1,47 @@
+title: Exams and Stress
+episode: UD8
+scene: home
+
+[story]
+Marinette: J'ai beau réviser depuis des semaines, j'ai peur de tout oublier le jour J. | However much I've been revising for weeks, I'm afraid of forgetting everything on the day.
+Adrien: Quoique tu sois bien préparée, c'est normal d'avoir un peu de stress. | Although you're well prepared, it's normal to have a bit of stress.
+Marinette: Je dors mal de peur de ne pas me réveiller à temps. | I sleep badly for fear of not waking up on time.
+Adrien: Mets deux réveils de crainte que l'un ne sonne pas ! Il n'empêche que tu as déjà passé des examens plus difficiles. | Set two alarms in case one doesn't ring! All the same, you've already sat harder exams.
+Marinette: C'est vrai. Il n'empêche que le stress est là, bien que je le connaisse. | That's true. All the same, the stress is there, even though I know it.
+Adrien: Respire, mange bien, et fais confiance à ta préparation. | Breathe, eat well, and trust your preparation.
+
+[vocab]
+vocab: avoir beau + infinitif | to do something in vain | ah-VWAHR BOH
+example: J'ai beau réviser, je stresse. | However much I revise, I stress.
+vocab: quoique | although (+ subjunctive) | kwah-kuh
+example: Quoique tu sois prête, tu stresses. | Although you're ready, you're stressed.
+vocab: de peur que | for fear that | duh PUHR kuh
+example: Je dors mal de peur que l'alarme ne sonne pas. | I sleep badly for fear the alarm won't ring.
+vocab: de crainte que | for fear that (formal) | duh KRANT kuh
+example: Mets deux réveils de crainte que l'un ne sonne pas. | Set two alarms in case one doesn't ring.
+vocab: il n'empêche que | all the same, nevertheless | eel nahn-PEHSH kuh
+example: Il n'empêche que c'est dur. | All the same, it's hard.
+vocab: le jour J | the big day | luh ZHOOR ZHEE
+example: Le jour J approche. | The big day is approaching.
+vocab: le stress | stress | luh STREHSS
+example: Le stress monte avant l'examen. | Stress rises before the exam.
+vocab: respirer | to breathe | rehs-pee-RAY
+example: Respire profondément. | Breathe deeply.
+vocab: faire confiance à | to trust | fehr kohn-FYAHNSS ah
+example: Fais confiance à ta préparation. | Trust your preparation.
+
+[grammar]
+grammar: Avoir beau, quoique, bien que | Avoir beau plus infinitive expresses that an effort has no effect: j'ai beau réviser, j'ai peur. Quoique and bien que plus subjunctive express a concession: quoique tu sois bien préparée, c'est normal d'avoir du stress. Il n'empêche que plus indicative means all the same: il n'empêche que tu as déjà passé des examens plus difficiles.
+example: J'ai beau réviser, je stresse. | However much I revise, I stress.
+example: Quoique tu sois prête, c'est normal d'avoir peur. | Although you're ready, it's normal to be afraid.
+grammar: De peur de, de peur que | De peur de plus infinitive: je dors mal de peur de ne pas me réveiller. De peur que / de crainte que plus subjunctive, often with ne explétif: de peur que l'alarme ne sonne pas. They express a precaution: mets deux réveils de crainte que l'un ne sonne pas. Compare au cas où plus conditional, which is less formal.
+example: Je dors mal de peur de ne pas me réveiller. | I sleep badly for fear of not waking up.
+example: Mets deux réveils de peur que l'un ne sonne pas. | Set two alarms in case one doesn't ring.
+
+[quiz]
+quiz: What does “j'ai beau réviser” mean? | I like revising | I revise a lot | I revise in vain | I just finished revising | C | Avoir beau + infinitive = in vain.
+quiz: Which mood follows “quoique”? | indicative | conditional | imperative | subjunctive | D | Quoique + subjunctive.
+quiz: What does “il n'empêche que” mean? | all the same | it doesn't matter that | it prevents that | it is forbidden that | A | Il n'empêche que = nevertheless.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

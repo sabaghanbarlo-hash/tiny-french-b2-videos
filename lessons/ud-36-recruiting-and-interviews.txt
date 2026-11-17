@@ -1,0 +1,47 @@
+title: Recruiting and Interviews
+episode: UD36
+scene: classroom
+
+[story]
+Adrien: Vous postulez au poste de responsable de projet. Qu'est-ce qui vous motive ? | You're applying for the project manager position. What motivates you?
+Marinette: Dès lors que j'ai un objectif clair, je donne le meilleur de moi-même. Et à mesure que l'équipe progresse, je progresse aussi. | As long as I have a clear goal, I give my best. And as the team progresses, I progress too.
+Adrien: Que feriez-vous si vous aviez un désaccord avec un collègue ? | What would you do if you had a disagreement with a colleague?
+Marinette: J'en parlerais directement. Dans mon précédent poste, si j'avais attendu, le problème aurait empiré. | I'd talk to them directly. In my previous job, if I had waited, the problem would have got worse.
+Adrien: Vous valorisez bien votre expérience. À partir du moment où vous pouvez la mettre en pratique, vous avez votre chance. | You highlight your experience well. As soon as you can put it into practice, you have your chance.
+Marinette: Merci. J'aurais pu parler plus de mes résultats, mais je pense avoir été claire. | Thank you. I could have talked more about my results, but I think I was clear.
+
+[vocab]
+vocab: recruter | to recruit, to hire | ruh-krew-TAY
+example: L'entreprise recrute trois personnes. | The company is hiring three people.
+vocab: le candidat / la candidate | candidate | luh kahn-dee-DAH
+example: La candidate est très motivée. | The candidate is very motivated.
+vocab: le poste à pourvoir | vacancy, position to fill | luh POHST ah poor-VWAHR
+example: Il y a un poste à pourvoir. | There's a position to fill.
+vocab: postuler à | to apply for | pohs-tew-LAY ah
+example: Je postule à ce poste. | I'm applying for this post.
+vocab: valoriser | to highlight, to enhance | vah-loh-ree-ZAY
+example: Elle valorise son expérience. | She highlights her experience.
+vocab: dès lors que | as soon as, as long as | deh LOHR kuh
+example: Dès lors que j'ai un objectif… | As soon as I have a goal…
+vocab: à mesure que | as (progressively) | ah muh-ZEWR kuh
+example: À mesure que l'équipe progresse… | As the team progresses…
+vocab: à partir du moment où | from the moment that | ah pahr-TEER dew moh-MAHN oo
+example: À partir du moment où vous pouvez… | As soon as you can…
+vocab: empirer | to get worse | ahn-pee-RAY
+example: Le problème aurait empiré. | The problem would have got worse.
+
+[grammar]
+grammar: Dès lors que, à mesure que, à partir du moment où | Dès lors que plus indicative: dès lors que j'ai un objectif clair. À mesure que plus indicative: à mesure que l'équipe progresse, je progresse. À partir du moment où plus indicative: à partir du moment où vous pouvez la mettre en pratique. All three take the indicative and express a link between two facts.
+example: À mesure que l'équipe progresse, je progresse aussi. | As the team progresses, I progress too.
+example: Dès lors que j'ai un objectif, je donne le meilleur. | As long as I have a goal, I give my best.
+grammar: Interview answers with the conditional | Present hypothetical: si j'avais un désaccord, j'en parlerais directement. Past hypothetical: si j'avais attendu, le problème aurait empiré. Past regret: j'aurais pu parler davantage de mes résultats. Justify with parce que, grâce à, du fait de. Keep answers positive and specific.
+example: Si j'avais attendu, le problème aurait empiré. | If I had waited, the problem would have got worse.
+example: J'aurais pu parler plus de mes résultats. | I could have talked more about my results.
+
+[quiz]
+quiz: Which mood follows “dès lors que”? | subjunctive | conditional | indicative | imperative | C | Dès lors que + indicative.
+quiz: Which sentence is a past hypothetical? | Si j'attends, le problème empirera. | Si j'attendais, le problème empirerait. | Si j'avais attendu, le problème empirerait. | Si j'avais attendu, le problème aurait empiré. | D | Si + plus-que-parfait, conditionnel passé.
+quiz: What does “postuler à” mean? | to apply for | to postpone | to post to | to apply makeup to | A | Postuler = apply.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

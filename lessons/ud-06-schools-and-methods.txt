@@ -1,0 +1,47 @@
+title: Schools and Methods
+episode: UD6
+scene: classroom
+
+[story]
+Marinette: En ce qui concerne les horaires, les écoles québécoises commencent plus tôt que les nôtres. | As far as hours are concerned, Québec schools start earlier than ours.
+Adrien: Oui, par rapport à la France, les journées sont plus courtes, mais il y a moins de devoirs. | Yes, compared to France, the days are shorter, but there's less homework.
+Marinette: Quant à la méthode, contrairement à nous, ils travaillent beaucoup en groupe. | As for method, unlike us, they work a lot in groups.
+Adrien: Autant je trouve ça stimulant, autant il m'est arrivé de me sentir perdu sans consignes précises. | As much as I find it stimulating, I sometimes felt lost without precise instructions.
+Marinette: Tandis qu'en France on valorise l'exposé écrit, à l'inverse, au Québec on valorise l'oral. | While in France we value the written essay, conversely in Québec the oral is valued.
+Adrien: Chaque système a ses forces. L'essentiel, c'est d'apprendre à penser. | Each system has its strengths. The main thing is learning to think.
+
+[vocab]
+vocab: en ce qui concerne | as far as… is concerned | ahn suh kee kohn-SEHRN
+example: En ce qui concerne les horaires… | As far as hours are concerned…
+vocab: quant à | as for | kahn tah
+example: Quant à la méthode… | As for the method…
+vocab: par rapport à | compared to | pahr rah-POHR ah
+example: Par rapport à la France… | Compared to France…
+vocab: contrairement à | unlike, contrary to | kohn-treh-ruh-MAHN ah
+example: Contrairement à nous, ils travaillent en groupe. | Unlike us, they work in groups.
+vocab: à l'inverse | conversely | ah lan-VEHRS
+example: À l'inverse, au Québec on valorise l'oral. | Conversely, in Québec the oral is valued.
+vocab: tandis que | while, whereas | tahn-DEE kuh
+example: Tandis qu'ici on écrit, là-bas on parle. | While here we write, there they speak.
+vocab: la consigne | instruction, guideline | lah kohn-SEEN-yuh
+example: Je n'avais pas de consignes précises. | I had no precise instructions.
+vocab: valoriser | to value, to promote | vah-loh-ree-ZAY
+example: On valorise l'exposé écrit. | The written essay is valued.
+vocab: stimulant / stimulante | stimulating | stee-mew-LAHN
+example: C'est très stimulant. | It's very stimulating.
+
+[grammar]
+grammar: Connectors of comparison and contrast | En ce qui concerne / quant à plus noun introduce a topic: quant à la méthode Par rapport à plus noun compares: par rapport à la France, les journées sont plus courtes. Contrairement à plus noun / pronoun: contrairement à nous. Tandis que, alors que plus indicative contrast two facts. À l'inverse, en revanche, au contraire introduce the opposite.
+example: Quant à la méthode, ils travaillent en groupe. | As for method, they work in groups.
+example: Par rapport à la France, les journées sont plus courtes. | Compared to France, the days are shorter.
+grammar: Autant… autant… | Autant autant opposes two ideas of equal intensity: autant j'aime lire, autant je déteste écrire. Both halves usually have the same structure. It expresses a strong contrast and is more elegant than mais. Compare: tout en plus gerund for contrast of actions: tout en travaillant, il étudie.
+example: Autant j'aime lire, autant je déteste écrire. | As much as I love reading, I hate writing.
+example: Autant je trouve ça stimulant, autant je me sens perdu. | As much as I find it stimulating, I feel lost.
+
+[quiz]
+quiz: Which connector means “as for”? | quant à | par exemple | de plus | en effet | A | Quant à = as for.
+quiz: What does “autant… autant…” express? | addition | strong contrast | cause | time | B | Autant… autant… opposes ideas.
+quiz: What does “à l'inverse” mean? | in the end | in addition | conversely | at the same time | C | À l'inverse = conversely.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

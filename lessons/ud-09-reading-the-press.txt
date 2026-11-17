@@ -1,0 +1,47 @@
+title: Reading the Press
+episode: UD9
+scene: cafe
+
+[story]
+Marinette: Regarde la une : « Hausse des loyers : la ville réagit ». Le chapeau résume tout. | Look at the front page: “Rent rises: the city reacts”. The lead sums everything up.
+Adrien: Dans la rubrique société, il y a un article sur la création de logements étudiants. | In the society section, there's an article about the creation of student housing.
+Marinette: Les titres sont toujours sous forme nominale : « Ouverture d'un nouveau campus », « Baisse du chômage ». | Headlines are always in nominal form: “Opening of a new campus”, “Fall in unemployment”.
+Adrien: C'est pour gagner de la place. En fait, ça veut dire : un nouveau campus ouvre, le chômage baisse. | It's to save space. In fact, it means: a new campus is opening, unemployment is falling.
+Marinette: Pour résumer l'article, j'écrirais : la hausse des loyers entraîne la construction de logements. | To summarise the article, I'd write: the rent rise leads to the construction of housing.
+Adrien: Bien vu. La nominalisation donne un style plus concis et plus formel. | Well spotted. Nominalisation gives a more concise and more formal style.
+
+[vocab]
+vocab: la une | front page | lah EWN
+example: L'info est à la une. | The news is on the front page.
+vocab: le titre | headline | luh TEE-truh
+example: Le titre est accrocheur. | The headline is catchy.
+vocab: le chapeau | lead paragraph | luh shah-POH
+example: Le chapeau résume l'article. | The lead sums up the article.
+vocab: la rubrique | section (of a newspaper) | lah rew-BREEK
+example: Je lis la rubrique société. | I read the society section.
+vocab: la hausse / la baisse | rise / fall | lah OHSS / lah BEHSS
+example: Hausse des loyers, baisse du chômage. | Rent rise, fall in unemployment.
+vocab: le chômage | unemployment | luh shoh-MAHZH
+example: Le chômage baisse. | Unemployment is falling.
+vocab: la nominalisation | nominalisation | lah noh-mee-nah-lee-zah-SYOHN
+example: La nominalisation rend le style formel. | Nominalisation makes the style formal.
+vocab: concis / concise | concise | kohn-SEE / kohn-SEEZ
+example: Le style est concis. | The style is concise.
+vocab: entraîner | to lead to, to cause | ahn-treh-NAY
+example: La hausse entraîne des protestations. | The rise leads to protests.
+
+[grammar]
+grammar: Nominalisation | Turn a verb or adjective into a noun to write in a more formal, compact style: augmenter becomes l'augmentation, baisser becomes la baisse, décider becomes la décision, créer becomes la création, ouvrir becomes l'ouverture, arriver becomes l'arrivée, important becomes l'importance. Compare: la ville a décidé de construire becomes la décision de la ville de construire. Headlines use nouns only: Baisse du chômage.
+example: Hausse des loyers : la ville réagit. | Rent rise: the city reacts.
+example: La décision de construire a été prise. | The decision to build was taken.
+grammar: Structure of an article | A press article has la une, le titre, le chapeau, le corps du texte and sometimes un encadré. Journalists answer qui, quoi, où, quand, pourquoi, comment. Typical verbs: annoncer, indiquer, souligner, rappeler, dénoncer, réagir.
+example: Le chapeau résume l'article. | The lead sums up the article.
+example: Le ministre a annoncé une baisse des impôts. | The minister announced a tax cut.
+
+[quiz]
+quiz: What is the noun for “décider”? | le décidé | la décision | la décidance | le décider | B | Décider → décision.
+quiz: What is “le chapeau” of an article? | the picture caption | the headline | the lead paragraph | the author's name | C | Chapeau = lead.
+quiz: What does “entraîner” mean in “la hausse entraîne des protestations”? | to train | to drag | to practise | to lead to | D | Entraîner = cause.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

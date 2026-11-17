@@ -1,0 +1,47 @@
+title: Consumer Rights
+episode: UD13
+scene: store
+
+[story]
+Marinette: J'ai acheté ce mixeur il y a deux mois et il est déjà en panne. Je suis en droit d'exiger un remboursement, non ? | I bought this blender two months ago and it's already broken. I'm entitled to demand a refund, aren't I?
+Adrien: Vous bénéficiez de la garantie légale de deux ans. Le vendeur est tenu de réparer ou de remplacer le produit. | You benefit from the two-year legal warranty. The seller is obliged to repair or replace the product.
+Marinette: Et si la réparation est impossible ? | And if repair is impossible?
+Adrien: Dans le cas où elle ne serait pas possible, vous pouvez demander le remboursement, sous réserve que vous ayez gardé votre ticket de caisse. | If it were not possible, you can ask for a refund, provided that you've kept your receipt.
+Marinette: Je l'ai gardé. J'ai aussi le droit de me rétracter pour un achat en ligne, non ? | I've kept it. I also have the right to withdraw from an online purchase, don't I?
+Adrien: Oui, pendant quatorze jours. Faites valoir vos droits calmement, mais fermement. | Yes, for fourteen days. Assert your rights calmly but firmly.
+
+[vocab]
+vocab: le consommateur | consumer | luh kohn-soh-mah-TUHR
+example: Le consommateur a des droits. | The consumer has rights.
+vocab: la garantie légale | legal warranty | lah gah-rahn-TEE lay-GAHL
+example: La garantie légale dure deux ans. | The legal warranty lasts two years.
+vocab: le remboursement | refund | luh rahn-boor-suh-MAHN
+example: Je demande un remboursement. | I'm asking for a refund.
+vocab: le ticket de caisse | receipt | luh tee-KEH duh KEHSS
+example: Gardez votre ticket de caisse. | Keep your receipt.
+vocab: exiger | to demand | ehk-see-ZHAY
+example: J'exige un remboursement. | I demand a refund.
+vocab: se rétracter | to withdraw (from a purchase) | suh ray-trahk-TAY
+example: Je peux me rétracter sous quatorze jours. | I can withdraw within fourteen days.
+vocab: être en droit de | to be entitled to | EH-truh ahn DRWAH duh
+example: Je suis en droit de réclamer. | I'm entitled to claim.
+vocab: être tenu de | to be obliged to | EH-truh tuh-NEW duh
+example: Le vendeur est tenu de réparer. | The seller is obliged to repair.
+vocab: faire valoir ses droits | to assert one's rights | fehr vah-LWAHR say DRWAH
+example: Faites valoir vos droits. | Assert your rights.
+
+[grammar]
+grammar: Rights and obligations | Avoir le droit de plus infinitive, être en droit de plus infinitive, avoir droit à plus noun. Obligations: être tenu de plus infinitive, être obligé de, devoir. Prohibitions: il est interdit de, ne pas avoir le droit de. Assert: faire valoir ses droits.
+example: Je suis en droit d'exiger un remboursement. | I am entitled to demand a refund.
+example: Le vendeur est tenu de réparer le produit. | The seller is obliged to repair the product.
+grammar: Dans le cas où and sous réserve que | Dans le cas où plus conditional presents a hypothesis: dans le cas où la réparation ne serait pas possible, vous pouvez demander un remboursement. Sous réserve que plus subjunctive sets a condition: sous réserve que vous ayez gardé votre ticket. Similar: à condition que plus subjunctive, au cas où plus conditional, pourvu que plus subjunctive.
+example: Dans le cas où elle ne serait pas possible… | In case it were not possible…
+example: Sous réserve que vous ayez gardé votre ticket. | Provided that you have kept your receipt.
+
+[quiz]
+quiz: Which expression means “to be legally bound to”? | être content de | être tenu de | être obligé de rire | être en train de | B | Être tenu de = bound to.
+quiz: Which mood follows “sous réserve que”? | indicative | conditional | subjunctive | imperative | C | Sous réserve que + subjunctive.
+quiz: Which tense follows “dans le cas où”? | futur | subjunctive | imparfait | conditional | D | Dans le cas où + conditional.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: How We Learn
+episode: UD5
+scene: classroom
+
+[story]
+Marinette: La méthode grâce à laquelle j'ai le plus progressé, c'est la répétition espacée. | The method thanks to which I've progressed the most is spaced repetition.
+Adrien: Moi, je retiens mieux avec des histoires auxquelles je peux m'identifier. | I remember better with stories I can identify with.
+Marinette: Les applications avec lesquelles je révise utilisent exactement ça. | The apps I revise with use exactly that.
+Adrien: Ce à quoi je fais attention, c'est de ne pas apprendre par cœur sans comprendre. | What I pay attention to is not to learn by heart without understanding.
+Marinette: Ce dont j'ai besoin, c'est de pratiquer à l'oral. L'ami avec lequel je parle chaque semaine m'aide beaucoup. | What I need is to practise speaking. The friend I talk to every week helps me a lot.
+Adrien: Ce par quoi il faut commencer, c'est trouver la méthode qui nous convient. | What you need to start with is finding the method that suits us.
+
+[vocab]
+vocab: la méthode | method | lah may-TOHD
+example: Quelle méthode utilises-tu ? | Which method do you use?
+vocab: la répétition espacée | spaced repetition | lah ray-pay-tee-SYOHN ehs-pah-SAY
+example: J'utilise la répétition espacée. | I use spaced repetition.
+vocab: apprendre par cœur | to learn by heart | ah-PRAHN-druh pahr KUHR
+example: Il apprend le poème par cœur. | He learns the poem by heart.
+vocab: retenir | to remember, to retain | ruh-tuh-NEER
+example: Je retiens mieux avec des images. | I remember better with images.
+vocab: la mémoire | memory | lah may-MWAHR
+example: J'ai une bonne mémoire visuelle. | I have a good visual memory.
+vocab: s'identifier à | to identify with | see-dahn-tee-FYAY ah
+example: Je m'identifie au héros. | I identify with the hero.
+vocab: progresser | to make progress | proh-greh-SAY
+example: J'ai beaucoup progressé. | I've made a lot of progress.
+vocab: convenir à | to suit | kohn-vuh-NEER ah
+example: Cette méthode me convient. | This method suits me.
+vocab: à l'oral | orally, in speaking | ah loh-RAHL
+example: Je pratique à l'oral. | I practise speaking.
+
+[grammar]
+grammar: Compound relative pronouns | After a preposition, a thing is replaced by lequel / laquelle / lesquels / lesquelles: la méthode grâce à laquelle j'ai progressé, les applications avec lesquelles je révise. With à: auquel, à laquelle, auxquels, auxquelles. With de: duquel, de laquelle, desquels, desquelles. For people, use preposition plus qui: l'ami avec qui je parle. Dont replaces de plus noun in most cases.
+example: La méthode grâce à laquelle j'ai progressé. | The method thanks to which I've progressed.
+example: Les applications avec lesquelles je révise. | The apps I revise with.
+grammar: Ce à quoi, ce dont, ce par quoi | When the antecedent is an idea and not a noun, use ce plus preposition plus quoi / ce dont: ce à quoi je fais attention, ce dont j'ai besoin, ce par quoi il faut commencer, ce avec quoi je travaille. They often start a sentence followed by c'est: ce dont j'ai besoin, c'est de pratiquer.
+example: Ce à quoi je fais attention, c'est la prononciation. | What I pay attention to is pronunciation.
+example: Ce dont j'ai besoin, c'est de pratiquer. | What I need is to practise.
+
+[quiz]
+quiz: Which pronoun fits? “la méthode grâce à ___ j'ai progressé” | lequel | laquelle | lesquelles | qui | B | Méthode is feminine singular.
+quiz: Which expression is correct? | Ce que j'ai besoin, c'est de pratiquer. | Ce qui j'ai besoin, c'est de pratiquer. | Ce dont j'ai besoin, c'est de pratiquer. | Ce dont j'ai besoin, c'est pratiquer à. | C | Avoir besoin de → ce dont.
+quiz: What does “apprendre par cœur” mean? | to learn with feeling | to learn at heart | to love learning | to learn by heart | D | Par cœur = by heart.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

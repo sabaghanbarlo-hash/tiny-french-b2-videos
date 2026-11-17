@@ -1,0 +1,47 @@
+title: Leading a Team
+episode: UD33
+scene: classroom
+
+[story]
+Adrien: Comment comptes-tu diriger l'équipe ? | How do you plan to lead the team?
+Marinette: Je veillerai à ce que chacun d'entre eux sache exactement ce qu'on attend de lui. | I'll make sure that each of them knows exactly what's expected of them.
+Adrien: Et pour les objectifs ? | And for the targets?
+Marinette: Nous les fixerons ensemble. Je m'assurerai qu'ils sont réalistes et que personne ne soit débordé. | We'll set them together. I'll make sure they're realistic and that nobody is overloaded.
+Adrien: Tu vas déléguer beaucoup ? | Are you going to delegate a lot?
+Marinette: Oui. Quiconque a les compétences doit avoir l'occasion de prendre des responsabilités. Ce qui compte, c'est la confiance. | Yes. Anyone who has the skills should have the chance to take on responsibility. What matters is trust.
+
+[vocab]
+vocab: diriger une équipe | to lead a team | dee-ree-ZHAY ewn ay-KEEP
+example: Elle dirige une équipe de huit personnes. | She leads a team of eight people.
+vocab: déléguer | to delegate | day-lay-GAY
+example: Il faut savoir déléguer. | You have to know how to delegate.
+vocab: motiver | to motivate | moh-tee-VAY
+example: Elle sait motiver son équipe. | She knows how to motivate her team.
+vocab: fixer des objectifs | to set targets | fee-ZAY day zohb-zhehk-TEEF
+example: Nous fixons des objectifs clairs. | We set clear targets.
+vocab: évaluer | to assess | ay-vah-lew-AY
+example: Je l'évalue chaque trimestre. | I assess it every quarter.
+vocab: veiller à ce que | to make sure that (+ subj.) | vay-YAY ah suh kuh
+example: Je veille à ce que tout soit clair. | I make sure everything is clear.
+vocab: s'assurer que | to make sure that | sah-sew-RAY kuh
+example: Je m'assure que tout va bien. | I make sure everything is fine.
+vocab: débordé / débordée | overwhelmed, swamped | day-bohr-DAY
+example: Il est débordé de travail. | He's swamped with work.
+vocab: quiconque | anyone who | kee-KOHNK
+example: Quiconque a les compétences peut candidater. | Anyone who has the skills can apply.
+
+[grammar]
+grammar: Veiller à ce que, s'assurer que | Veiller à ce que plus subjunctive means to see to it that: je veillerai à ce que chacun sache ce qu'on attend de lui. S'assurer que plus indicative or subjunctive: je m'assurerai qu'ils sont réalistes; je m'assurerai que personne ne soit débordé. With the same subject: veiller à plus noun or infinitive: veiller à la sécurité, veiller à respecter les délais.
+example: Je veillerai à ce que chacun sache ce qu'on attend de lui. | I'll make sure everyone knows what's expected.
+example: Je m'assurerai que personne ne soit débordé. | I'll make sure nobody is overloaded.
+grammar: Chacun d'entre eux, quiconque, ce qui compte | Chacun d'entre eux / d'entre nous / d'entre vous takes a singular verb: chacun d'entre eux sait ce qu'il doit faire. Quiconque is a formal indefinite relative: quiconque a les compétences peut candidater. Ce qui compte, c'est stresses what matters: ce qui compte, c'est la confiance.
+example: Chacun d'entre eux sait ce qu'il doit faire. | Each of them knows what he must do.
+example: Ce qui compte, c'est la confiance. | What matters is trust.
+
+[quiz]
+quiz: Which mood follows “veiller à ce que”? | indicative | subjunctive | conditional | imperative | B | Veiller à ce que + subjunctive.
+quiz: What does “quiconque” mean? | whoever it is not | nobody | anyone who | somewhere | C | Quiconque = anyone who.
+quiz: What does “déléguer” mean? | to elect | to delay | to dilute | to delegate | D | Déléguer = delegate.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

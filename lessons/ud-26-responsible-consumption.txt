@@ -1,0 +1,47 @@
+title: Responsible Consumption
+episode: UD26
+scene: market
+
+[story]
+Marinette: Mieux vaut acheter moins mais de meilleure qualité, plutôt que de renouveler sans cesse ses vêtements. | It's better to buy less but with better quality, rather than constantly renewing your clothes.
+Adrien: Je m'oriente de plus en plus vers la seconde main au lieu de tout acheter neuf. | I'm turning more and more to second-hand instead of buying everything new.
+Marinette: Pour les légumes, je privilégie les circuits courts. Il vaut mieux que les producteurs vendent directement. | For vegetables, I favour short supply chains. It's better that producers sell directly.
+Adrien: Les labels aident, mais ils ne garantissent pas tout. Il faut rester vigilant. | Labels help, but they don't guarantee everything. You have to stay vigilant.
+Marinette: Réparer plutôt que jeter, c'est un réflexe qui s'apprend. | Repairing rather than throwing away is a reflex that can be learned.
+Adrien: À force de faire attention, on finit par consommer autrement sans y penser. | By dint of paying attention, you end up consuming differently without thinking about it.
+
+[vocab]
+vocab: la seconde main | second-hand | lah suh-GOHND MAN
+example: J'achète en seconde main. | I buy second-hand.
+vocab: le circuit court | short supply chain | luh seer-KWEE KOOR
+example: Je privilégie les circuits courts. | I favour short supply chains.
+vocab: durable | durable, sustainable | dew-RAH-bluh
+example: Un produit durable. | A durable product.
+vocab: le label | label, certification | luh lah-BEHL
+example: Ce label garantit l'origine. | This label guarantees the origin.
+vocab: le gaspillage | waste | luh gahs-pee-YAHZH
+example: Il faut éviter le gaspillage. | We must avoid waste.
+vocab: privilégier | to favour, to prioritise | pree-vee-lay-ZHYAY
+example: Je privilégie la qualité. | I prioritise quality.
+vocab: réparer plutôt que jeter | to repair rather than throw away | ray-pah-RAY plew-TOH kuh zhuh-TAY
+example: Je préfère réparer plutôt que jeter. | I prefer repairing to throwing away.
+vocab: mieux vaut | it's better to | MYUH VOH
+example: Mieux vaut acheter moins. | It's better to buy less.
+vocab: vigilant / vigilante | vigilant | vee-zhee-LAHN
+example: Restons vigilants. | Let's stay vigilant.
+
+[grammar]
+grammar: Mieux vaut and il vaut mieux que | Mieux vaut plus infinitive expresses preference or advice: mieux vaut acheter moins mais mieux; mieux vaut réparer que de jeter. Il vaut mieux que plus subjunctive when the subject changes: il vaut mieux que les producteurs vendent directement. Plutôt que de plus infinitive and au lieu de plus infinitive express a replacement: plutôt que de renouveler ses vêtements, au lieu de tout acheter neuf.
+example: Mieux vaut acheter moins mais de meilleure qualité. | It's better to buy less but of higher quality.
+example: Il vaut mieux que les producteurs vendent directement. | It's better that producers sell directly.
+grammar: À force de + infinitive | À force de plus infinitive says that a repeated or prolonged action produces a result: à force de faire attention, on finit par consommer autrement; à force de réparer, il a appris à tout réparer. The result is often introduced by on finit par or il a fini par. The subject is the same for both verbs.
+example: À force de faire attention, on consomme autrement. | By dint of paying attention, you consume differently.
+example: À force de réparer, il a appris à tout réparer. | By dint of repairing, he learned to repair everything.
+
+[quiz]
+quiz: Which sentence is correct? | Mieux vaut réparer que de jeter. | Mieux vaut réparer que jeter de. | Mieux vaut de réparer que jeter. | Mieux vaut réparer à jeter. | A | Mieux vaut + infinitive (que de + infinitive).
+quiz: What does “à force de” express? | a force applied | a result from repeated action | a prohibition | a condition | B | À force de = by dint of.
+quiz: What does “la seconde main” mean? | second-class | a second hand | second-hand | late | C | Seconde main = second-hand.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

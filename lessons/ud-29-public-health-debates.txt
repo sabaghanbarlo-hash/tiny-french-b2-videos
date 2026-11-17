@@ -1,0 +1,47 @@
+title: Public Health Debates
+episode: UD29
+scene: park
+
+[story]
+Marinette: Il vaut mieux prévenir que guérir. La campagne de prévention de la ville vise à encourager l'activité physique. | Prevention is better than cure. The town's prevention campaign aims to encourage physical activity.
+Adrien: Le fait que l'espérance de vie augmente ne signifie pas que tout le monde vive en bonne santé. | The fact that life expectancy is rising doesn't mean everybody lives in good health.
+Marinette: Exact. Le dépistage précoce permet de traiter beaucoup de problèmes avant qu'ils ne s'aggravent. | Right. Early screening makes it possible to treat many problems before they worsen.
+Adrien: Le fait que les habitudes de vie soient en cause rend les campagnes d'autant plus importantes. | The fact that lifestyle habits are involved makes campaigns all the more important.
+Marinette: Plus la prévention est accessible, plus les inégalités diminuent. | The more accessible prevention is, the more inequalities fall.
+Adrien: Reste à savoir qui finance tout ça. Le fait que les budgets soient limités pose problème. | It remains to be seen who finances all that. The fact that budgets are limited is a problem.
+
+[vocab]
+vocab: la prévention | prevention | lah pray-vahn-SYOHN
+example: La prévention est essentielle. | Prevention is essential.
+vocab: le dépistage | screening | luh day-pees-TAHZH
+example: Le dépistage est gratuit. | Screening is free.
+vocab: l'espérance de vie | life expectancy | lehs-pay-RAHNSS duh VEE
+example: L'espérance de vie augmente. | Life expectancy is rising.
+vocab: la campagne | campaign | lah kahn-PAHN-yuh
+example: Une campagne de prévention. | A prevention campaign.
+vocab: les habitudes de vie | lifestyle habits | lay zah-bee-TEWD duh VEE
+example: Les habitudes de vie comptent. | Lifestyle habits matter.
+vocab: viser à | to aim to | vee-ZAY ah
+example: La campagne vise à informer. | The campaign aims to inform.
+vocab: précoce | early | pray-KOHSS
+example: Un dépistage précoce. | Early screening.
+vocab: les inégalités | inequalities | lay zee-nay-gah-lee-TAY
+example: Les inégalités diminuent. | Inequalities are falling.
+vocab: s'aggraver | to worsen | sah-grah-VAY
+example: Le problème s'aggrave. | The problem is getting worse.
+
+[grammar]
+grammar: Le fait que + subjunctive | Le fait que plus subjunctive introduces a known fact seen as a topic for discussion: le fait que l'espérance de vie augmente ne signifie pas que tout le monde vive en bonne santé; le fait que les budgets soient limités pose problème. Compare with a plain indicative fact: l'espérance de vie augmente. Related: malgré le fait que, du fait que, étant donné que.
+example: Le fait que les budgets soient limités pose problème. | The fact that budgets are limited is a problem.
+example: Le fait qu'il soit en retard m'étonne. | The fact that he's late surprises me.
+grammar: Prevention and proportion | Il vaut mieux prévenir que guérir. Plus plus for proportion: plus la prévention est accessible, plus les inégalités diminuent. Viser à plus infinitive: la campagne vise à encourager l'activité physique. Permettre de plus infinitive: le dépistage permet de traiter les problèmes avant qu'ils ne s'aggravent.
+example: La campagne vise à encourager l'activité physique. | The campaign aims to encourage physical activity.
+example: Plus la prévention est accessible, plus les inégalités diminuent. | The more accessible prevention is, the more inequalities fall.
+
+[quiz]
+quiz: Which mood follows “le fait que” in this lesson? | indicative | subjunctive | conditional | imperative | B | Le fait que + subjunctive.
+quiz: What does “le dépistage” mean? | lie detection | tracking down | screening | depression | C | Dépistage = screening.
+quiz: What does “viser à” mean? | to visit | to watch | to see through | to aim to | D | Viser à = aim to.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

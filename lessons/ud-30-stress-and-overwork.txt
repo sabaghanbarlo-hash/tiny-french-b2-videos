@@ -1,0 +1,47 @@
+title: Stress and Overwork
+episode: UD30
+scene: home
+
+[story]
+Marinette: Ma charge de travail a tellement augmenté que je rentre épuisée tous les soirs. | My workload has increased so much that I come home exhausted every evening.
+Adrien: À force de travailler tard, tu risques le surmenage. | By dint of working late, you risk overwork.
+Marinette: Je suis fatiguée au point de ne plus pouvoir me concentrer. J'ai du mal à déconnecter. | I'm tired to the point of no longer being able to concentrate. I find it hard to switch off.
+Adrien: Il faudrait que tu prennes du recul et que tu en parles à ton responsable. | You should take a step back and talk to your manager about it.
+Marinette: Je sais. Je me suis sentie tellement dépassée que je n'ai pas osé en parler. | I know. I felt so overwhelmed that I didn't dare to talk about it.
+Adrien: Tu as le droit de demander de l'aide. Et mieux vaut le faire avant que la fatigue s'installe. | You have the right to ask for help. And it's better to do it before the exhaustion sets in.
+
+[vocab]
+vocab: la charge de travail | workload | lah SHARZH duh trah-VAHY
+example: Ma charge de travail est lourde. | My workload is heavy.
+vocab: le surmenage | overwork, burnout | luh sewr-muh-NAHZH
+example: Le surmenage est un risque. | Overwork is a risk.
+vocab: l'épuisement | exhaustion | lay-pwee-zuh-MAHN
+example: Elle est au bord de l'épuisement. | She's on the verge of exhaustion.
+vocab: prendre du recul | to take a step back | PRAHN-druh dew ruh-KOOL
+example: Il faut prendre du recul. | You need to take a step back.
+vocab: déconnecter | to switch off, disconnect | day-koh-nehk-TAY
+example: J'ai du mal à déconnecter. | I find it hard to switch off.
+vocab: se sentir dépassé(e) | to feel overwhelmed | suh sahn-TEER day-pah-SAY
+example: Je me sens dépassée. | I feel overwhelmed.
+vocab: au point de | to the point of | oh PWAN duh
+example: Elle est fatiguée au point de ne plus dormir. | She's tired to the point of not sleeping.
+vocab: le responsable | manager | luh rehs-pohn-SAH-bluh
+example: J'en parle à mon responsable. | I'll talk to my manager.
+vocab: demander de l'aide | to ask for help | duh-mahn-DAY duh LEHD
+example: N'hésite pas à demander de l'aide. | Don't hesitate to ask for help.
+
+[grammar]
+grammar: Au point de, tellement… que | Au point de plus infinitive and au point que plus indicative express a result of high intensity: elle est fatiguée au point de ne plus pouvoir se concentrer; la charge a augmenté au point que je rentre épuisée. Tellement / si que plus indicative: ma charge de travail a tellement augmenté que je rentre épuisée; elle est si fatiguée qu'elle dort mal. À force de plus infinitive: à force de travailler tard, tu risques le surmenage.
+example: Elle est fatiguée au point de ne plus pouvoir se concentrer. | She is tired to the point of no longer being able to concentrate.
+example: Ma charge a tellement augmenté que je rentre épuisée. | My workload has increased so much that I come home exhausted.
+grammar: Advice for someone under pressure | Offer support with the conditional: il faudrait que tu prennes du recul, tu pourrais en parler à ton responsable. Reassure: tu as le droit de demander de l'aide, ce n'est pas un signe de faiblesse. Suggest concrete steps: fixer des limites, déconnecter le soir, déléguer, prévoir des pauses. Avant que plus subjunctive: mieux vaut agir avant que la fatigue s'installe.
+example: Il faudrait que tu prennes du recul. | You should take a step back.
+example: Mieux vaut agir avant que la fatigue s'installe. | It's better to act before exhaustion sets in.
+
+[quiz]
+quiz: Which sentence is correct? | Elle est fatiguée au point de ne plus dormir. | Elle est fatiguée au point que ne plus dormir. | Elle est fatiguée au point à ne plus dormir. | Elle est fatiguée au point pour ne plus dormir. | A | Au point de + infinitive.
+quiz: What does “prendre du recul” mean? | to go backwards | to take a step back | to take some distance by car | to be late | B | Prendre du recul = gain perspective.
+quiz: Which mood follows “avant que”? | indicative | conditional | subjunctive | imperative | C | Avant que + subjunctive.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
