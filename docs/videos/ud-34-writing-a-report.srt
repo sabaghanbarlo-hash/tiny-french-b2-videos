@@ -1,0 +1,29 @@
+1
+00:00:12,096 --> 00:00:18,740
+Commençons par le constat : la satisfaction des clients a baissé de dix points en un an.
+Let's start with the findings: customer satisfaction has fallen by ten points in a year.
+
+2
+00:00:18,840 --> 00:00:27,356
+Il ressort de l'enquête que les délais de livraison posent problème. Force est de constater que nous avons perdu des clients.
+The survey shows that delivery times are a problem. We must admit that we have lost customers.
+
+3
+00:00:27,456 --> 00:00:36,764
+En outre, le service après-vente est jugé peu réactif. Par ailleurs, les prix sont perçus comme trop élevés.
+In addition, after-sales service is judged unresponsive. Also, prices are seen as too high.
+
+4
+00:00:36,864 --> 00:00:43,508
+Par conséquent, il faudrait améliorer la logistique, ainsi que former les équipes.
+Consequently, we should improve logistics, as well as train the teams.
+
+5
+00:00:43,608 --> 00:00:51,332
+Passons aux recommandations : réduire les délais, simplifier les retours et suivre les réclamations.
+Let's move to the recommendations: reduce delays, simplify returns and track complaints.
+
+6
+00:00:51,432 --> 00:00:57,308
+En conclusion, des mesures rapides permettraient de regagner la confiance.
+In conclusion, quick measures would help win back trust.
