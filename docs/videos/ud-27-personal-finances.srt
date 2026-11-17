@@ -1,0 +1,29 @@
+1
+00:00:12,384 --> 00:00:18,524
+Je voudrais acheter un appartement, mais il faudrait que j'épargne davantage.
+I'd like to buy a flat, but I'd need to save more.
+
+2
+00:00:18,624 --> 00:00:24,980
+À supposer que tu mettes cinq cents euros de côté par mois, ça te prendrait combien de temps ?
+Supposing you put five hundred euros aside each month, how long would that take you?
+
+3
+00:00:25,080 --> 00:00:32,636
+Environ dix ans. En admettant que les prix restent stables, ce qui est peu probable.
+About ten years. Assuming prices stay stable, which is unlikely.
+
+4
+00:00:32,736 --> 00:00:39,692
+Dans l'hypothèse où tu emprunterais, il faudrait vérifier le taux d'intérêt et la durée de remboursement.
+In the event that you borrowed, you'd have to check the interest rate and the repayment term.
+
+5
+00:00:39,792 --> 00:00:45,716
+Au cas où mes revenus baisseraient, j'aurais besoin d'une marge de sécurité.
+In case my income fell, I'd need a safety margin.
+
+6
+00:00:45,816 --> 00:00:51,548
+Si j'étais toi, je garderais toujours trois mois de dépenses en réserve.
+If I were you, I'd always keep three months' expenses in reserve.
