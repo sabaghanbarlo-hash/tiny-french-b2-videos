@@ -1,0 +1,29 @@
+1
+00:00:12,216 --> 00:00:19,892
+Voici trois versions de la même phrase. Familier : « T'as vu, y a plus de bagnoles ? »
+Here are three versions of the same sentence. Informal: “Seen it, there are no more cars?”
+
+2
+00:00:19,992 --> 00:00:25,244
+Courant : « Tu as vu ? Il n'y a plus de voitures. »
+Standard: “Did you see? There are no more cars.”
+
+3
+00:00:25,344 --> 00:00:31,268
+Soutenu : « Avez-vous remarqué qu'aucun véhicule ne circule plus dans cette rue ? »
+Formal: “Have you noticed that no vehicle runs any more along this street?”
+
+4
+00:00:31,368 --> 00:00:38,036
+Le soutenu utilise l'inversion et un vocabulaire plus précis : véhicule au lieu de bagnole.
+The formal one uses inversion and more precise vocabulary: vehicle instead of motor.
+
+5
+00:00:38,136 --> 00:00:45,980
+Dans un e-mail professionnel, on écrirait cela et non ça, et on garderait toujours ne dans la négation.
+In a professional e-mail, we'd write cela and not ça, and we'd always keep ne in negatives.
+
+6
+00:00:46,080 --> 00:00:52,076
+L'essentiel, c'est d'adapter le ton à son interlocuteur et à la situation.
+The main thing is to adapt your tone to the person you're speaking to and to the situation.
