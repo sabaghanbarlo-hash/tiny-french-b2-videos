@@ -1,0 +1,29 @@
+1
+00:00:11,904 --> 00:00:16,772
+Marinette, j'ai droit à combien de jours de congé par an ?
+Marinette, how many days of leave am I entitled to per year?
+
+2
+00:00:16,872 --> 00:00:27,548
+Légalement, tu as droit à cinq semaines de congés payés. Il est nécessaire que ton employeur t'accorde au moins deux semaines consécutives.
+Legally, you're entitled to five weeks of paid leave. It's necessary that your employer grants you at least two consecutive weeks.
+
+3
+00:00:27,648 --> 00:00:33,260
+Et si je démissionne ? Je suis tenu de faire un préavis ?
+And if I resign? Am I obliged to work a notice period?
+
+4
+00:00:33,360 --> 00:00:42,620
+Oui, la durée dépend de ton contrat. Tu dois remettre ta lettre de démission en main propre ou par courrier recommandé.
+Yes, the length depends on your contract. You must hand in your resignation letter in person or by registered post.
+
+5
+00:00:42,720 --> 00:00:47,084
+Mon employeur peut-il me licencier sans motif ?
+Can my employer dismiss me without a reason?
+
+6
+00:00:47,184 --> 00:00:56,180
+Non. Il est tenu de justifier le licenciement. Tu es en droit de contester s'il n'est pas fondé.
+No. He's obliged to justify the dismissal. You're entitled to contest it if it isn't well founded.

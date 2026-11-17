@@ -1,0 +1,29 @@
+1
+00:00:12,552 --> 00:00:19,436
+L'automatisation présente de réels bénéfices, mais aussi des risques pour l'emploi.
+Automation has real benefits, but also risks for employment.
+
+2
+00:00:19,536 --> 00:00:25,388
+L'enjeu, c'est de l'encadrer pour que les travailleurs ne soient pas laissés de côté.
+The challenge is to regulate it so that workers aren't left behind.
+
+3
+00:00:25,488 --> 00:00:32,084
+Il faut réglementer l'usage de l'intelligence artificielle avant qu'elle ne s'impose partout.
+AI use must be regulated before it takes over everywhere.
+
+4
+00:00:32,184 --> 00:00:39,884
+Certaines entreprises l'utilisent sans que les employés soient informés, ce qui pose un problème de transparence.
+Some companies use it without employees being informed, which poses a transparency problem.
+
+5
+00:00:39,984 --> 00:00:45,812
+Il faudra attendre que des règles soient fixées pour juger vraiment ses effets.
+We'll have to wait until rules are set to really judge its effects.
+
+6
+00:00:45,912 --> 00:00:52,820
+En attendant, mettons en garde contre les usages abusifs, jusqu'à ce que la loi évolue.
+In the meantime, let's warn against abuses, until the law evolves.

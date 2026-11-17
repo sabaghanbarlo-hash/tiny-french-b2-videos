@@ -1,0 +1,29 @@
+1
+00:00:12,480 --> 00:00:17,372
+Tu as lu l'article sur cette avancée en énergie solaire ?
+Did you read the article about this breakthrough in solar energy?
+
+2
+00:00:17,472 --> 00:00:24,572
+Oui. Il a été démontré que les nouveaux panneaux produisent deux fois plus d'électricité.
+Yes. It has been shown that the new panels produce twice as much electricity.
+
+3
+00:00:24,672 --> 00:00:31,148
+Grâce aux progrès de la recherche, cette technologie s'est avérée beaucoup moins chère.
+Thanks to progress in research, this technology has proved much cheaper.
+
+4
+00:00:31,248 --> 00:00:35,852
+Les chercheurs ont été financés par un programme européen.
+The researchers were funded by a European programme.
+
+5
+00:00:35,952 --> 00:00:43,652
+Il a été prouvé que le procédé fonctionne en laboratoire, mais il reste à le tester à grande échelle.
+It has been proved that the process works in the laboratory, but it still has to be tested on a large scale.
+
+6
+00:00:43,752 --> 00:00:48,428
+Une découverte n'a de valeur que si elle est reproductible.
+A discovery is only valuable if it can be reproduced.

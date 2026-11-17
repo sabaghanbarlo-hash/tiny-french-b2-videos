@@ -1,0 +1,29 @@
+1
+00:00:12,744 --> 00:00:17,588
+Une pompe à chaleur, ça marche comment, concrètement ?
+How does a heat pump work, in practice?
+
+2
+00:00:17,688 --> 00:00:23,972
+Il s'agit d'un système qui prend la chaleur de l'air extérieur pour chauffer la maison.
+It's a system that takes heat from the outside air to heat the house.
+
+3
+00:00:24,072 --> 00:00:27,980
+Comment est-ce possible quand il fait froid dehors ?
+How is that possible when it's cold outside?
+
+4
+00:00:28,080 --> 00:00:36,908
+Le principe consiste à utiliser un fluide qui s'évapore à basse température, ce qui permet d'absorber la chaleur.
+The principle consists in using a fluid that evaporates at low temperature, which makes it possible to absorb heat.
+
+5
+00:00:37,008 --> 00:00:39,452
+Et ensuite ?
+And then?
+
+6
+00:00:39,552 --> 00:00:47,612
+Un compresseur, au moyen duquel on augmente la pression, rend cette chaleur utilisable pour le chauffage.
+A compressor, by means of which the pressure is increased, makes that heat usable for heating.

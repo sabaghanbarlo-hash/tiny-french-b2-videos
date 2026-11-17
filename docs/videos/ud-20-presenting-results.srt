@@ -1,0 +1,29 @@
+1
+00:00:12,192 --> 00:00:19,196
+Comme le montre ce graphique, la consommation d'énergie a diminué de dix pour cent en deux ans.
+As this graph shows, energy consumption has fallen by ten percent in two years.
+
+2
+00:00:19,296 --> 00:00:23,660
+Elle est passée de cent vingt à cent huit kilowattheures par mois ?
+Did it go from one hundred and twenty to one hundred and eight kilowatt-hours a month?
+
+3
+00:00:23,760 --> 00:00:32,012
+Exactement. La baisse a été plus importante que prévu, tandis que les coûts sont restés stables.
+Exactly. The fall was bigger than expected, while costs remained stable.
+
+4
+00:00:32,112 --> 00:00:35,900
+Et les émissions de gaz à effet de serre ?
+And greenhouse gas emissions?
+
+5
+00:00:36,000 --> 00:00:43,220
+Elles ont diminué de moitié ainsi que la facture d'eau, de même que la consommation de carburant.
+They've halved, as has the water bill, as well as fuel consumption.
+
+6
+00:00:43,320 --> 00:00:48,716
+Pour conclure, on peut dire que le programme a atteint ses objectifs.
+To conclude, we can say that the programme has met its targets.
