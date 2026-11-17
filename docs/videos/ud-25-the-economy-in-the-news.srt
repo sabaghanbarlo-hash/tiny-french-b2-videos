@@ -1,0 +1,29 @@
+1
+00:00:12,432 --> 00:00:20,276
+Le pouvoir d'achat a reculé cette année. Les prix ont augmenté plus vite que les salaires.
+Purchasing power has fallen this year. Prices have gone up faster than wages.
+
+2
+00:00:20,376 --> 00:00:25,364
+Cette inflation est due en grande partie à la hausse des coûts de l'énergie.
+This inflation is largely due to the rise in energy costs.
+
+3
+00:00:25,464 --> 00:00:33,644
+Du fait de cette hausse, les ménages réduisent leurs dépenses, ce qui entraîne un ralentissement de la croissance.
+Because of this rise, households are cutting spending, which leads to a slowdown in growth.
+
+4
+00:00:33,744 --> 00:00:38,804
+Faute de visibilité, les entreprises hésitent à embaucher.
+For lack of visibility, companies hesitate to hire.
+
+5
+00:00:38,904 --> 00:00:45,596
+Le taux de chômage pourrait donc remonter, ce qui résulterait d'une demande plus faible.
+The unemployment rate could therefore rise, which would result from weaker demand.
+
+6
+00:00:45,696 --> 00:00:53,012
+Tout cela découle d'un enchaînement de crises. Il est difficile d'en isoler une seule cause.
+All of this stems from a chain of crises. It's hard to isolate a single cause.
